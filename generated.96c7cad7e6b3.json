@@ -1,5 +1,21 @@
 [
   {
+    "id": "tyt-cografya-01-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye'nin Su Kaynakları",
+    "type": "quiz",
+    "question": "Türkiye'nin tamamı kendi sınırları içinde yer alan en uzun akarsuyu hangisidir?",
+    "options": [
+      "Sakarya",
+      "Kızılırmak",
+      "Fırat",
+      "Yeşilırmak"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kızılırmak (~1355 km), kaynağından denize döküldüğü yere kadar tamamı Türkiye'de olan en uzun akarsudur. Fırat daha uzundur ancak ülke dışına taşar."
+  },
+  {
     "id": "tyt-biyoloji-01-001",
     "exam": "tyt",
     "subject": "biyoloji",
