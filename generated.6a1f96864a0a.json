@@ -1339,6 +1339,2618 @@
     "tip": "Endemik = sadece tek bir bölgeye özgü, başka yerde doğal olarak bulunmayan tür."
   },
   {
+    "id": "tyt-cografya-01-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Ekonomik Faaliyetler",
+    "type": "quiz",
+    "question": "Aşağıdaki faaliyetlerden hangisi birincil ekonomik faaliyetler grubunda yer alır?",
+    "options": [
+      "Ormancılık",
+      "Sanayi (endüstri)",
+      "Bankacılık",
+      "Araştırma-geliştirme (AR-GE)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Birincil ekonomik faaliyetler, doğrudan doğal ortama bağlı olarak ham madde elde edilmesini sağlar; tarım, hayvancılık, balıkçılık, ormancılık ve madencilik bu gruptadır. Sanayi ikincil, bankacılık üçüncül, AR-GE ise dördüncül faaliyettir."
+  },
+  {
+    "id": "tyt-cografya-01-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Ekonomik Faaliyetler",
+    "type": "truefalse",
+    "statement": "Gelişmiş ülkelerde birincil ekonomik faaliyetlerde çalışan nüfus oranı, az gelişmiş ülkelere göre daha düşüktür.",
+    "answer": true,
+    "explanation": "Gelişmiş ülkelerde makineleşme nedeniyle birincil faaliyetlerde çalışan oranı düşük, ikincil ve üçüncül faaliyetlerde çalışan oranı yüksektir. Az gelişmiş ülkelerde ise çalışan nüfusun büyük bölümü birincil ekonomik faaliyetlerde yer alır."
+  },
+  {
+    "id": "tyt-cografya-02-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Uluslararası Ulaşım Hatları",
+    "type": "quiz",
+    "question": "Akdeniz ile Kızıldeniz'i birbirine bağlayarak Akdeniz ile Hint Okyanusu arasındaki en kısa deniz yolunu sağlayan yapay su yolu hangisidir?",
+    "options": [
+      "Süveyş Kanalı",
+      "Panama Kanalı",
+      "Cebelitarık Boğazı",
+      "Malakka Boğazı"
+    ],
+    "answerIndex": 0,
+    "explanation": "Süveyş Kanalı dünyanın en önemli yapay su yollarından biridir; Akdeniz ile Kızıldeniz'i bağlar ve Akdeniz ile Hint Okyanusu arasındaki en kısa deniz yolu olması küresel önemini artırır. Panama Kanalı ise Atlas ve Büyük Okyanus'u birbirine bağlar."
+  },
+  {
+    "id": "tyt-cografya-02-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Uluslararası Ulaşım Hatları",
+    "type": "flashcard",
+    "front": "İnsanları ve malları gidilecek yere kadar doğrudan ulaştırabilmesi nedeniyle dünyadaki en yaygın ulaşım sistemi hangisidir?",
+    "back": "Kara yolu. Diğer ulaşım sistemlerinde olmayan bu özelliği, yani malları ve insanları doğrudan varış noktasına ulaştırabilmesi, kara yolunu dünyadaki en yaygın ulaşım sistemi yapar."
+  },
+  {
+    "id": "tyt-cografya-03-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünya'nın Şekli ve Günlük Hareketi",
+    "type": "info",
+    "title": "Afet Kavramı ve Temel Sınıflandırması",
+    "body": "Can ve mal kaybına neden olan, insan faaliyetlerini aksatan ve doğal çevreye zarar veren doğal ya da insan kaynaklı olaylara afet denir. Bir olayın afet sayılabilmesi için can ve mal kaybına yol açması gerekir. Doğa olaylarından kaynaklananlara doğal afet, insan faaliyetleri sırasında oluşanlara beşerî afet denir.",
+    "tip": "Afetler genel olarak jeolojik, klimatik, biyolojik, sosyal ve teknolojik olmak üzere beş başlık altında sınıflandırılır."
+  },
+  {
+    "id": "tyt-cografya-03-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünya'nın Şekli ve Günlük Hareketi",
+    "type": "truefalse",
+    "statement": "Bir afetin etkisinin büyüklüğünü yalnızca olayın şiddeti belirler; toplumun hazırbulunuşluk düzeyinin bir etkisi yoktur.",
+    "answer": false,
+    "explanation": "Afetlerin etkisinde olayın büyüklüğü kadar toplumun afetlere karşı hazırbulunuşluk düzeyi de belirleyicidir. Gelişen teknoloji bu hazırbulunuşluğu artırarak afetlerin etkisini azaltabilir."
+  },
+  {
+    "id": "tyt-cografya-05-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Koordinat Sistemi",
+    "type": "info",
+    "title": "Paralellerin Temel Özellikleri",
+    "body": "Paraleller, Ekvator'a eşit uzaklıktaki noktaları birleştiren ve doğu-batı yönlü uzanan hayalî çizgilerdir. Başlangıç paraleli Ekvator'dur (0°) ve en uzun paralel dairesidir. Ekvator'dan kutuplara doğru gidildikçe paralellerin çevre uzunlukları azalır ve birbirleriyle kesişmezler.",
+    "tip": "Ardışık iki paralel arasındaki kuş uçuşu mesafe her yerde yaklaşık 111 km'dir."
+  },
+  {
+    "id": "tyt-cografya-05-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Koordinat Sistemi",
+    "type": "quiz",
+    "question": "Aynı meridyen üzerinde bulunan iki nokta için aşağıdakilerden hangisi kesinlikle aynıdır?",
+    "options": [
+      "Yerel saatleri",
+      "Ekvator'a olan uzaklıkları",
+      "Güneş ışınlarını alış açıları",
+      "Çizgisel dönüş hızları"
+    ],
+    "answerIndex": 0,
+    "explanation": "Aynı meridyen üzerindeki bütün noktaların yerel saatleri aynıdır, çünkü Güneş bu noktaların meridyeninden aynı anda geçer. Ekvator'a uzaklık, ışın açısı ve çizgisel hız ise enleme bağlıdır; aynı meridyen üzerindeki noktaların enlemleri farklı olabilir."
+  },
+  {
+    "id": "tyt-cografya-05-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Koordinat Sistemi",
+    "type": "truefalse",
+    "statement": "Bir yerin mutlak konumu, o yerin başlangıç paraleline ve başlangıç meridyenine göre enlem ve boylam değerleriyle ifade edilir.",
+    "answer": true,
+    "explanation": "Mutlak konum, bir yerin Ekvator'a (başlangıç paraleli) ve Greenwich'e (başlangıç meridyeni) göre belirlenen enlem ve boylam değerleriyle ifade edilen konumudur. Göreceli konumdan bu yönüyle ayrılır."
+  },
+  {
+    "id": "tyt-cografya-06-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yerel Saat ve Ulusal Saat",
+    "type": "quiz",
+    "question": "35° Batı meridyenindeki K merkezinin yerel saati 11.00 iken, 30° Doğu meridyenindeki L merkezinin yerel saati kaçtır?",
+    "options": [
+      "06.40",
+      "15.20",
+      "13.20",
+      "09.40"
+    ],
+    "answerIndex": 1,
+    "explanation": "İki merkez farklı yarım kürelerde olduğu için meridyen farkı toplanır: 35 + 30 = 65°. 65 × 4 = 260 dakika = 4 saat 20 dakika. L merkezi daha doğuda olduğundan saati ileridedir: 11.00 + 4.20 = 15.20."
+  },
+  {
+    "id": "tyt-cografya-06-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yerel Saat ve Ulusal Saat",
+    "type": "cloze",
+    "text": "Dünya 15° aralıklarla 24 saat dilimine ayrılmıştır ve ___ meridyeni, tarih değiştirme çizgisi olarak kabul edilir.",
+    "answer": "180°",
+    "options": [
+      "0°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "explanation": "Dünya ekseni etrafındaki dönüşünü 24 saatte tamamlar; 360 meridyen 24 saate bölününce her saat dilimi 15°'dir. 180° meridyeni tarih değiştirme çizgisi kabul edilir ve doğusu ile batısı arasında 24 saat zaman farkı vardır."
+  },
+  {
+    "id": "tyt-cografya-07-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye'nin Konumu",
+    "type": "quiz",
+    "question": "Türkiye 26°-45° Doğu meridyenleri arasında yer alır. Bu boylam değerlerinin bir sonucu aşağıdakilerden hangisidir?",
+    "options": [
+      "En doğusu ile en batısı arasında 76 dakikalık zaman farkı bulunması",
+      "Güneş ışınlarının dik açıyla düşmemesi",
+      "Dört mevsimin belirgin yaşanması",
+      "Üç tarafının denizlerle çevrili olması"
+    ],
+    "answerIndex": 0,
+    "explanation": "Boylam farkı yerel saat üzerinde etkilidir; Türkiye'nin en doğusu ile en batısı arasındaki 76 dakikalık zaman farkı boylam değerlerinin sonucudur. Işın açısı ve mevsimler enlemle, denizlerle çevrili olmak ise göreceli konumla ilgilidir."
+  },
+  {
+    "id": "tyt-cografya-07-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye'nin Konumu",
+    "type": "truefalse",
+    "statement": "Türkiye'de dört mevsimin belirgin yaşanması ve ılıman iklimlerin görülmesi, ülkenin enlem olarak orta kuşakta bulunmasıyla ilgilidir.",
+    "answer": true,
+    "explanation": "Türkiye 36°-42° Kuzey paralelleri arasında, yani orta kuşakta yer alır. Bu enlem konumu nedeniyle dört mevsim belirgin yaşanır, ılıman iklimler görülür, batı rüzgârları ve cephe yağışları etkili olur."
+  },
+  {
+    "id": "tyt-cografya-08-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Harita Unsurları ve Harita Çeşitleri",
+    "type": "info",
+    "title": "Harita ile Kroki Arasındaki Fark",
+    "body": "Yeryüzünün tamamının ya da bir bölümünün kuş bakışı görünüşünün belli bir oranda küçültülerek düzleme aktarılmasına harita denir. Bir alanın kuş bakışı görünümünün ölçek kullanılmadan, kabataslak düzleme aktarılmasına ise kroki denir.",
+    "tip": "Kuş bakışı görünüm ve düzleme aktarma her ikisinde de ortaktır; tek fark haritada ölçek kullanılması, krokinin ise kabataslak olmasıdır."
+  },
+  {
+    "id": "tyt-cografya-08-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Harita Unsurları ve Harita Çeşitleri",
+    "type": "quiz",
+    "question": "Orta enlemlerden Ekvator ve kutuplara gidildikçe bozulmaların arttığı, Türkiye haritalarının çizimi için en uygun olan projeksiyon yöntemi hangisidir?",
+    "options": [
+      "Konik projeksiyon",
+      "Silindirik projeksiyon",
+      "Düzlem projeksiyon",
+      "İzohips projeksiyonu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Konik projeksiyon model küreye koni sarılmasıyla oluşur; orta enlemlerden uzaklaştıkça bozulma artar. Türkiye orta kuşakta yer aldığı için haritalarının çiziminde en uygun yöntem konik projeksiyondur."
+  },
+  {
+    "id": "tyt-cografya-08-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Harita Unsurları ve Harita Çeşitleri",
+    "type": "quiz",
+    "question": "Büyük ölçekli bir harita, küçük ölçekli bir haritaya göre aşağıdaki özelliklerden hangisine sahiptir?",
+    "options": [
+      "Ölçek paydası küçük, ayrıntıyı gösterme gücü fazla, gösterilen alan dardır",
+      "Ölçek paydası büyük, hata oranı fazla, gösterilen alan geniştir",
+      "Küçültme oranı fazla, ayrıntı az, izohipsler arası yükselti farkı fazladır",
+      "Hata oranı fazla, ayrıntı az, gösterilen alan geniştir"
+    ],
+    "answerIndex": 0,
+    "explanation": "Büyük ölçekli haritalarda ölçeğin paydası küçük, küçültme ve hata oranı az, ayrıntıyı gösterme gücü fazladır; buna karşılık dar bir alan gösterilir. Geniş alan, fazla hata ve az ayrıntı küçük ölçekli haritaların özelliğidir."
+  },
+  {
+    "id": "tyt-cografya-09-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Haritalarda Hesaplamalar",
+    "type": "quiz",
+    "question": "1/400.000 ölçekli bir haritada iki şehir arası 20 cm ölçülmüştür. İki şehir arasındaki gerçek kuş uçuşu uzaklık kaç km'dir?",
+    "options": [
+      "80 km",
+      "8 km",
+      "800 km",
+      "40 km"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gerçek uzunluk = Harita uzunluğu × Ölçeğin paydası = 20 cm × 400.000 = 8.000.000 cm. Bu değer km'ye çevrilirse (100.000'e bölünür) 80 km bulunur."
+  },
+  {
+    "id": "tyt-cografya-09-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Haritalarda Hesaplamalar",
+    "type": "quiz",
+    "question": "K ile L noktaları arasındaki yükselti farkı 400 m, aralarındaki gerçek uzaklık ise 5 km'dir. Buna göre K ile L arasındaki eğim yüzde kaçtır?",
+    "options": [
+      "%8",
+      "%80",
+      "%0,8",
+      "%20"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eğim = (Yükselti farkı / Yatay uzaklık) × 100. Uzaklık metreye çevrilir: 5 km = 5000 m. Eğim = (400 / 5000) × 100 = %8. Eğim hesabında uzaklığın metreye dönüştürülmesi şarttır."
+  },
+  {
+    "id": "tyt-cografya-09-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Haritalarda Hesaplamalar",
+    "type": "cloze",
+    "text": "Bir bölgenin gerçek alanı hesaplanırken harita alanı, ölçek paydasının ___ ile çarpılır.",
+    "answer": "karesi",
+    "options": [
+      "kendisi",
+      "karesi",
+      "küpü",
+      "yarısı"
+    ],
+    "explanation": "Gerçek Alan = Harita Alanı × (Ölçek Paydası)². Alan iki boyutlu olduğu için ölçek paydası karesi alınarak çarpılır; uzunluk hesabından bu yönüyle ayrılır."
+  },
+  {
+    "id": "tyt-cografya-09-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Haritalarda Hesaplamalar",
+    "type": "flashcard",
+    "front": "Bir çizgi ölçekte 2 cm'lik aralık gerçekte 10 km'yi gösteriyorsa, bunun kesir ölçek karşılığı nedir?",
+    "back": "1/500.000. Çünkü 2 cm 10 km ise 1 cm 5 km'dir; 5 km = 500.000 cm olduğundan kesir ölçek 1/500.000 olur."
+  },
+  {
+    "id": "tyt-cografya-10-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yeryüzü Şekillerinin Haritalara Aktarılması",
+    "type": "quiz",
+    "question": "Bir izohips haritasında eğrilerin birbirine çok sık olduğu bölgeler hakkında aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      "Eğimin fazla olduğu",
+      "Yükseltinin düşük olduğu",
+      "Düz bir ovanın bulunduğu",
+      "Eğimin az olduğu"
+    ],
+    "answerIndex": 0,
+    "explanation": "İzohipsler arası yatay mesafe ne kadar kısaysa aynı yükselti farkı o kadar dar alanda aşılıyor demektir; bu da eğimin fazla olduğunu gösterir. Eğrilerin seyrek olduğu yerlerde ise eğim azdır."
+  },
+  {
+    "id": "tyt-cografya-10-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yeryüzü Şekillerinin Haritalara Aktarılması",
+    "type": "cloze",
+    "text": "Renklendirme yöntemiyle hazırlanan haritalarda renkler, ova ya da plato gibi yer şeklinin türünü değil yalnızca ___ gösterir.",
+    "answer": "yükseltiyi",
+    "options": [
+      "yükseltiyi",
+      "sıcaklığı",
+      "nüfusu",
+      "eğimi"
+    ],
+    "explanation": "Renklendirme yönteminde deniz seviyesine yakın yerler yeşil, yükseldikçe sarı, turuncu ve kahverengi tonlarıyla gösterilir. Renkler yer şeklinin türünü değil, yalnızca yükselti basamaklarını ifade eder."
+  },
+  {
+    "id": "tyt-cografya-10-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yeryüzü Şekillerinin Haritalara Aktarılması",
+    "type": "quiz",
+    "question": "Uzaktan algılama ile elde edilen mekânsal veriler haritaya aktarılırken ormanlar, göller ve denizler hangi yöntemle gösterilir?",
+    "options": [
+      "Alansal yöntem",
+      "Noktasal yöntem",
+      "Çizgisel yöntem",
+      "Kabartma yöntemi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Yüzey kaplayan veriler (ormanlar, göller, millî parklar, denizler) alansal yöntemle gösterilir. Evler ve direkler noktasal, akarsular ve yollar gibi uzanan veriler ise çizgisel yöntemle gösterilir."
+  },
+  {
+    "id": "tyt-cografya-11-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Atmosfer, Hava Durumu ve İklim",
+    "type": "info",
+    "title": "Hava Durumu ile İklim Arasındaki Fark",
+    "body": "Dar alanlarda etkili olan hava olaylarının kısa süreli ortalamasına hava durumu denir; bunu inceleyen bilim dalı meteorolojidir. Geniş alanlarda etkili olan hava olaylarının uzun süreli ortalamasına ise iklim denir ve iklim bölgelerini inceleyen bilim dalı klimatolojidir.",
+    "tip": "Temel ayrım süre ve alandır: hava durumu kısa süreli ve dar alan, iklim uzun süreli ve geniş alandır."
+  },
+  {
+    "id": "tyt-cografya-11-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Atmosfer, Hava Durumu ve İklim",
+    "type": "cloze",
+    "text": "Su buharının tamamına yakını bulunduğu için iklim olaylarının gerçekleştiği, atmosferin en alt katmanı ___ katmanıdır.",
+    "answer": "troposfer",
+    "options": [
+      "troposfer",
+      "stratosfer",
+      "termosfer",
+      "ekzosfer"
+    ],
+    "explanation": "Troposfer atmosferin en alt katmanıdır; gazların yaklaşık %75'ini ve su buharının tamamına yakınını içerir. Bu nedenle bütün iklim ve hava olayları bu katmanda gerçekleşir."
+  },
+  {
+    "id": "tyt-cografya-12-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Sıcaklık",
+    "type": "quiz",
+    "question": "Ekvator'dan kutuplara gidildikçe ortalama sıcaklığın azalmasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Güneş ışınlarının yere düşme açısının daralması",
+      "Yükseltinin sürekli artması",
+      "Karasallığın artması",
+      "Okyanus akıntılarının yön değiştirmesi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dünya'nın küresel şeklinden dolayı Ekvator'dan kutuplara gidildikçe Güneş ışınlarının yere düşme açısı daralır; daha eğik açıyla gelen ışınlar daha geniş alana yayıldığı için sıcaklık azalır. Buna enlem etkisi denir."
+  },
+  {
+    "id": "tyt-cografya-12-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Sıcaklık",
+    "type": "truefalse",
+    "statement": "Kutup bölgelerinde yazın 6 ay boyunca gündüz yaşandığı için sıcaklıklar oldukça yüksektir.",
+    "answer": false,
+    "explanation": "Kutuplarda 6 ay gündüz yaşansa da Güneş ışınları çok eğik açılarla geldiğinden enerji geniş alana dağılır; bu nedenle güneşlenme süresinin uzunluğuna rağmen sıcaklık düşük kalır."
+  },
+  {
+    "id": "tyt-cografya-12-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Sıcaklık",
+    "type": "quiz",
+    "question": "Karasallığın etkili olduğu bir yerde günlük ve yıllık sıcaklık farkının fazla olmasının nedeni nedir?",
+    "options": [
+      "Karaların çabuk ısınıp çabuk soğuması",
+      "Karaların yavaş ısınıp yavaş soğuması",
+      "Karalarda nem oranının çok yüksek olması",
+      "Karaların Güneş ışınlarını tamamen yansıtması"
+    ],
+    "answerIndex": 0,
+    "explanation": "Karalar çabuk ısınıp çabuk soğur; bu nedenle gündüz ile gece, yaz ile kış arasındaki sıcaklık farkı büyük olur. Denizler ise yavaş ısınıp yavaş soğuduğundan denizelliğin etkili olduğu yerlerde bu farklar azdır."
+  },
+  {
+    "id": "tyt-cografya-12-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Sıcaklık",
+    "type": "cloze",
+    "text": "Sıcaklıkları aynı olan noktaların birleştirilmesiyle elde edilen eğrilere eş sıcaklık eğrisi yani ___ denir.",
+    "answer": "izoterm",
+    "explanation": "Eş sıcaklık eğrilerine izoterm denir ve yıllık sıcaklık dağılışını gösteren haritalar bu eğrilerle hazırlanır."
+  },
+  {
+    "id": "tyt-cografya-13-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Basınç ve Rüzgârlar",
+    "type": "info",
+    "title": "Normal (Standart) Basınç",
+    "body": "Atmosferi oluşturan gazların yer çekimiyle yeryüzüne uyguladığı kuvvete atmosfer basıncı denir ve barometre ile ölçülür. Deniz seviyesinde, 45° enleminde ve 15 °C sıcaklıkta ölçülen 1013 mb'lık değere normal basınç denir.",
+    "tip": "Basınç biriminin milibar (mb) olduğunu unutma."
+  },
+  {
+    "id": "tyt-cografya-13-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Basınç ve Rüzgârlar",
+    "type": "quiz",
+    "question": "Ekvator'da yıl boyunca sürekli alçak basıncın görülmesinin nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Sıcaklığın yüksek olması nedeniyle havanın ısınıp genleşerek yükselmesi",
+      "Yer çekiminin diğer bölgelere göre çok fazla olması",
+      "Gaz yoğunluğunun sürekli artması",
+      "Yükseltinin diğer bölgelerden fazla olması"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ekvator'da sıcaklık yıl boyunca yüksektir; ısınan hava genleşerek hafifler ve yükselir, bu da yüzeyde basıncın düşmesine yol açar. Bu nedenle Ekvator'da sürekli (termik) alçak basınç koşulları egemendir."
+  },
+  {
+    "id": "tyt-cografya-13-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Basınç ve Rüzgârlar",
+    "type": "quiz",
+    "question": "Alçak basınç (siklon) merkezleriyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Hava çevreden merkeze hareket eder ve yükselici hava nedeniyle yağış ihtimali yüksektir",
+      "Hava merkezden çevreye hareket eder ve gökyüzü açıktır",
+      "Dikey hava hareketi alçalıcıdır ve yağış ihtimali düşüktür",
+      "Gökyüzü genellikle açık ve güneşlidir"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alçak basınçta hava çevreden merkeze doğru toplanır ve merkezde yükselir; yükselen nemli hava yoğuştuğu için gökyüzü kapalı (bulutlu) olur ve yağış ihtimali yüksektir. Açık gökyüzü ve alçalıcı hava ise yüksek basıncın (antisiklon) özelliğidir."
+  },
+  {
+    "id": "tyt-cografya-13-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Basınç ve Rüzgârlar",
+    "type": "cloze",
+    "text": "Dağları aşarak alçalan kuru hava kütlelerinin sürtünme ve hıza bağlı olarak ısınmasıyla oluşan sıcak ve kuru yerel rüzgâra ___ rüzgârı denir.",
+    "answer": "fön",
+    "options": [
+      "fön",
+      "alize",
+      "muson",
+      "meltem"
+    ],
+    "explanation": "Fön rüzgârı dağın bir yamacında yağışını bırakıp diğer yamaçta alçalırken ısınan kuru havanın oluşturduğu sıcak ve kuru bir yerel rüzgârdır."
+  },
+  {
+    "id": "tyt-cografya-13-005",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Basınç ve Rüzgârlar",
+    "type": "quiz",
+    "question": "Güneydoğu Asya'da etkili olan yaz musonunun bol yağış getirmesinin nedeni nedir?",
+    "options": [
+      "Denizden karaya doğru esmesi",
+      "Karadan denize doğru esmesi",
+      "Kutuplardan Ekvator'a doğru esmesi",
+      "Yalnızca yüksek dağ yamaçlarında esmesi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Yaz musonu denizden karaya doğru estiği için bol nem taşır ve kara üzerine yağış bırakır. Kış musonu ise karadan denize doğru estiğinden genellikle yağış getirmez."
+  },
+  {
+    "id": "tyt-cografya-14-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nem ve Yağış",
+    "type": "flashcard",
+    "front": "Mutlak nem ile maksimum nem arasındaki fark nedir?",
+    "back": "Mutlak nem, 1 m³ havada o an bulunan su buharının gram cinsinden gerçek miktarıdır. Maksimum nem ise 1 m³ havanın belirli bir sıcaklıkta içerebileceği en fazla nem miktarıdır ve sıcaklık arttıkça artar."
+  },
+  {
+    "id": "tyt-cografya-14-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nem ve Yağış",
+    "type": "quiz",
+    "question": "Bağıl nem oranı %70 olan bir hava kütlesi için aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      "Hava doygun değildir ve %30 oranında nem açığı vardır",
+      "Hava tamamen doygundur ve yağış kesindir",
+      "Havanın içerdiği mutlak nem sıfırdır",
+      "Havanın maksimum nem miktarı %70'tir"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bağıl nem, havadaki su buharının o sıcaklıkta taşıyabileceği en fazla neme oranıdır. %70 bağıl nem, havanın doygunluğa (%100) ulaşmadığını ve %30 nem açığı bulunduğunu gösterir."
+  },
+  {
+    "id": "tyt-cografya-14-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nem ve Yağış",
+    "type": "quiz",
+    "question": "Çiy ile kırağının oluşumunu birbirinden ayıran temel etken aşağıdakilerden hangisidir?",
+    "options": [
+      "Yoğuşma sırasındaki sıcaklığın 0 °C'nin altında ya da üstünde olması",
+      "Yoğuşmanın gökyüzünde ya da yerde olması",
+      "Rüzgârın esip esmemesi",
+      "Bağıl nemin %50'nin altında olması"
+    ],
+    "answerIndex": 0,
+    "explanation": "Çiy, sıcaklık 0 °C'nin üzerindeyken nemin yerdeki soğuk cisimler üzerinde su damlacıkları halinde yoğuşmasıyla oluşur. Kırağı ise sıcaklık 0 °C'nin altındayken nemin buz kristali halinde yoğuşmasıyla oluşur."
+  },
+  {
+    "id": "tyt-cografya-14-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nem ve Yağış",
+    "type": "info",
+    "title": "Yamaç (Orografik) Yağışları",
+    "body": "Nemli hava kütlesi bir dağ yamacı boyunca yükselirken soğur ve belirli bir yükseltiden sonra yoğuşarak yağış bırakır. Bu yağışlar, kıyıya paralel uzanan sıradağların denize bakan yamaçlarında bol görülür; Karadeniz kıyı kuşağı ile Güneydoğu Asya bunun tipik örnekleridir."
+  },
+  {
+    "id": "tyt-cografya-15-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İklim Tipleri",
+    "type": "quiz",
+    "question": "Ekvatoral iklimde yıllık sıcaklık farkının yalnızca 2-3 °C olmasının başlıca nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Güneş ışınlarının yıl boyunca büyük açılarla gelmesi ve nemin yüksek olması",
+      "Yükseltinin yıl boyunca çok fazla olması",
+      "Karasallığın çok güçlü olması",
+      "Soğuk su akıntılarının kıyıları etkilemesi"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ekvator'da Güneş ışınları yıl boyunca büyük açılarla geldiğinden sıcaklık sürekli yüksek ve dengelidir; ayrıca yüksek nem oranı sıcaklık farklarını azalttığı için yıllık sıcaklık farkı 2-3 °C gibi çok düşük kalır."
+  },
+  {
+    "id": "tyt-cografya-15-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İklim Tipleri",
+    "type": "truefalse",
+    "statement": "Akdeniz ikliminde yazlar sıcak ve kurak, kışlar ılık ve yağışlı geçer.",
+    "answer": true,
+    "explanation": "Akdeniz ikliminin en belirgin özelliği yazların sıcak-kurak, kışların ılık-yağışlı geçmesidir; bitki örtüsünü kızılçam ormanları ve makiler oluşturur."
+  },
+  {
+    "id": "tyt-cografya-15-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İklim Tipleri",
+    "type": "flashcard",
+    "front": "Ilıman karasal (step) iklimin belirgin özellikleri ve bitki örtüsü nedir?",
+    "back": "En belirgin Orta Asya'da görülür; yıllık sıcaklık farkı fazla, kışlar soğuk, yazlar sıcaktır. Yıllık yağış 300-500 mm olup en fazla ilkbaharda düşer. Bitki örtüsü bozkırlardır (step)."
+  },
+  {
+    "id": "tyt-cografya-16-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye İklimi",
+    "type": "quiz",
+    "question": "Karadeniz kıyılarının sıcaklık değerlerinin, iç kesimlerden ve doğudan daha yüksek olması ve bunun enlem-sıcaklık ilişkisine ters düşmesi neyle açıklanır?",
+    "options": [
+      "Denizelliğin sıcaklığı dengeleyici etkisiyle",
+      "Karadeniz kıyılarının Türkiye'nin en güneyinde yer almasıyla",
+      "Bu kıyılarda yükseltinin çok fazla olmasıyla",
+      "Sürekli sıcak çöl rüzgârlarının esmesiyle"
+    ],
+    "answerIndex": 0,
+    "explanation": "Normalde kuzeye gidildikçe enlem etkisiyle sıcaklık azalmalıdır. Ancak Karadeniz kıyılarında denizellik sıcaklığı dengelediği için bu kıyılar iç ve doğu kesimlerden daha sıcaktır; bu durum sıcaklık-enlem ilişkisine terstir."
+  },
+  {
+    "id": "tyt-cografya-16-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye İklimi",
+    "type": "quiz",
+    "question": "Türkiye'de Ege ve Akdeniz kıyılarında yazların kurak geçmesinde en etkili basınç merkezi aşağıdakilerden hangisidir?",
+    "options": [
+      "Asor dinamik yüksek basıncı (DYB)",
+      "İzlanda dinamik alçak basıncı (DAB)",
+      "Sibirya termik yüksek basıncı (TYB)",
+      "Basra termik alçak basıncı (TAB)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Asor DYB yıl boyunca etkili olabilen bir yüksek basınç merkezidir ve yaz aylarında Ege ile Akdeniz kıyılarında alçalıcı hava koşulları oluşturarak kuraklığa yol açar. İzlanda DAB ve Sibirya TYB kış mevsiminde etkilidir."
+  },
+  {
+    "id": "tyt-cografya-16-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye İklimi",
+    "type": "cloze",
+    "text": "Türkiye'de yağışlar genellikle kıyı bölgelerde fazla, ___ kesimlerde ise azdır.",
+    "answer": "iç",
+    "explanation": "Yükselti ve karasallık nedeniyle Türkiye'de nem ve yağış kıyılardan iç kesimlere gidildikçe azalır; Tuz Gölü ve Iğdır çevresi yağışın en az olduğu yerlerdendir."
+  },
+  {
+    "id": "tyt-cografya-16-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye İklimi",
+    "type": "truefalse",
+    "statement": "Karadeniz ikliminde her mevsim yağış görülür ve en fazla yağış sonbaharda düşer.",
+    "answer": true,
+    "explanation": "Karadeniz iklimi her mevsim yağışlıdır; yağış rejimi nispeten düzenlidir. En fazla yağış sonbaharda, en az yağış ilkbaharda düşer ve günlük-yıllık sıcaklık farkları azdır."
+  },
+  {
+    "id": "tyt-cografya-16-005",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye İklimi",
+    "type": "info",
+    "title": "Türkiye'de Meltem Rüzgârları",
+    "body": "Türkiye üç tarafının denizlerle çevrili ve yüzey şekillerinin engebeli olması nedeniyle meltem rüzgârlarının sık görüldüğü bir ülkedir. Anadolu'nun batı kıyılarında esen deniz meltemine imbat, iç kesimlerde esen dağ meltemine ise dağ yeli adı verilir."
+  },
+  {
+    "id": "tyt-cografya-17-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yerleşme ve Türkiye'de Yerleşmeler",
+    "type": "quiz",
+    "question": "Aşağıdakilerden hangisi yeryüzünde yerleşmeyi sınırlandıran alanlardan biri değildir?",
+    "options": [
+      "Gür ormanlar ve bataklıklar",
+      "Yüksek ve engebeli araziler",
+      "Verimli tarım ovaları",
+      "Buzullarla kaplı kurak ve soğuk alanlar"
+    ],
+    "answerIndex": 2,
+    "explanation": "Su yüzeyleri, yüksek ve engebeli araziler, buzullar, kurak alanlar, ormanlar ve bataklıklar yerleşmeyi sınırlandırır. Verimli tarım ovaları ise ekonomik faaliyetlere elverişli olduğu için yerleşmeyi artırır."
+  },
+  {
+    "id": "tyt-cografya-17-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yerleşme ve Türkiye'de Yerleşmeler",
+    "type": "flashcard",
+    "front": "Nüfusu 2.000'in altında olan, ekonomisi genellikle tarım ve hayvancılığa dayanan ve Türkiye'deki en küçük idari birim olan yerleşme nedir?",
+    "back": "Köy. Türkiye'nin her yerinde rastlanır; kasaba ise köy ile şehir arasında geçiş özelliği gösterir."
+  },
+  {
+    "id": "tyt-cografya-17-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yerleşme ve Türkiye'de Yerleşmeler",
+    "type": "quiz",
+    "question": "Evlerin birbirine uzak olduğu dağınık yerleşmeler özellikle Türkiye'nin hangi yöresinde yaygındır ve bunun başlıca nedeni nedir?",
+    "options": [
+      "İç Anadolu'da; arazinin düz ve su kaynaklarının yetersiz olması",
+      "Karadeniz kıyı kuşağında; arazinin engebeli, su kaynaklarının bol ve tarım alanlarının parçalı olması",
+      "Güneydoğu Anadolu'da; iklimin kurak olması",
+      "Ege kıyılarında; ulaşımın gelişmiş olması"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dağınık yerleşme arazinin engebeli, su kaynaklarının fazla ve tarım alanlarının parçalı olduğu yerlerde görülür; bu koşulları taşıyan Karadeniz kıyı kuşağında yaygındır. Toplu yerleşme ise engebenin az, suyun yetersiz olduğu iç kesimlerde görülür."
+  },
+  {
+    "id": "tyt-cografya-17-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yerleşme ve Türkiye'de Yerleşmeler",
+    "type": "cloze",
+    "text": "Ağaç malzemenin kullanıldığı ___ meskenler, orman örtüsünün fazla olduğu yerlerde görülür; Türkiye'de Karadeniz iklim bölgesinde yaygındır.",
+    "answer": "ahşap",
+    "options": [
+      "ahşap",
+      "taş",
+      "toprak",
+      "betonarme"
+    ],
+    "explanation": "Ahşap meskenler orman örtüsünün bol olduğu Karadeniz'de yaygındır. Taş meskenler volkanik/kalkerli arazilerde, toprak (kerpiç) meskenler ise yağışın az olduğu karasal alanlarda görülür."
+  },
+  {
+    "id": "tyt-cografya-17-005",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Yerleşme ve Türkiye'de Yerleşmeler",
+    "type": "truefalse",
+    "statement": "Şehir ile il aynı kavramlardır; ikisi de bir yerleşme türünü ifade eder.",
+    "answer": false,
+    "explanation": "Şehir bir yerleşme kavramıyken il bir yönetim (idari) birimidir. Örneğin il, merkezî yönetimin taşra teşkilatıdır ve vali tarafından yönetilir; şehir ise tarım dışı faaliyetlerin öne çıktığı nüfusça kalabalık bir yerleşmedir."
+  },
+  {
+    "id": "tyt-cografya-18-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Bölge Sınıflandırılması ve Türleri",
+    "type": "quiz",
+    "question": "İşlevsel bölgeleri şekilsel bölgelerden ayıran en önemli özellik aşağıdakilerden hangisidir?",
+    "options": [
+      "Yalnızca doğal unsurlara göre oluşturulmaları",
+      "Sınırlarının amaca göre belirlenebilmesi ve bir yönetim merkezinin bulunması",
+      "Hiçbir zaman sınırlarının değişmemesi",
+      "Yalnızca dünya ölçeğinde tanımlanabilmeleri"
+    ],
+    "answerIndex": 1,
+    "explanation": "Şekilsel bölgelerin bir yönetim merkezi ve işleyişi yoktur. İşlevsel bölgelerde ise sınırlar amaca göre belirlenebilir ve bir yönetim merkezi bulunur; il, ilçe gibi yönetsel bölgeler buna örnektir."
+  },
+  {
+    "id": "tyt-cografya-18-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Bölge Sınıflandırılması ve Türleri",
+    "type": "flashcard",
+    "front": "Coğrafyada, çeşitli özellikleriyle çevresinden farklı iken kendi içinde benzerlik gösteren alana ne ad verilir?",
+    "back": "Bölge. Bölgeler temelde şekilsel bölgeler ve işlevsel bölgeler olmak üzere ikiye ayrılır."
+  },
+  {
+    "id": "tyt-cografya-18-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Bölge Sınıflandırılması ve Türleri",
+    "type": "quiz",
+    "question": "Aşağıdaki bölge türlerinden hangisi diğerlerinden farklı olarak beşerî (insan kaynaklı) bir şekilsel bölgedir?",
+    "options": [
+      "İklim bölgeleri",
+      "Hidrografya bölgeleri",
+      "Nüfus bölgeleri",
+      "Bitki örtüsü bölgeleri"
+    ],
+    "answerIndex": 2,
+    "explanation": "İklim, hidrografya ve bitki örtüsü bölgeleri doğal şekilsel bölgelerdir. Nüfus bölgeleri ise nüfusun miktarı, dağılışı ve göçler gibi insan kaynaklı verilere göre oluşturulan beşerî şekilsel bölgelerdir."
+  },
+  {
+    "id": "tyt-cografya-18-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Bölge Sınıflandırılması ve Türleri",
+    "type": "cloze",
+    "text": "Güneydoğu Anadolu Projesi (GAP) ve Konya Ovası Projesi (KOP), işlevsel bölgelerden ___ özelliklerine göre oluşturulan bölgelere örnektir.",
+    "answer": "planlama",
+    "explanation": "GAP, DAP, DOKAP ve KOP gibi projeler, belirli alanların coğrafi özellikleri göz önüne alınarak planlama ve yatırım amacıyla oluşturulan planlama bölgelerine örnektir."
+  },
+  {
+    "id": "tyt-cografya-19-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Doğal Çevrenin Kullanımı",
+    "type": "quiz",
+    "question": "Aral Gölü'nü besleyen Seyhun ve Ceyhun nehirlerinin sularının kanallarla tarım alanlarına aktarılması sonucunda ne olmuştur?",
+    "options": [
+      "Aral Gölü büyük oranda kurumuştur",
+      "Aral Gölü'nün yüzölçümü artmıştır",
+      "Nehirlerin debisi düzenli hale gelmiştir",
+      "Bölgede tatlı su rezervi artmıştır"
+    ],
+    "answerIndex": 0,
+    "explanation": "İnsanın hidrosfere etkisine tipik bir örnektir: gölü besleyen suların tarım için başka yöne çekilmesi, su girdisini azalttığından Aral Gölü zamanla büyük oranda kurumuştur."
+  },
+  {
+    "id": "tyt-cografya-19-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Doğal Çevrenin Kullanımı",
+    "type": "info",
+    "title": "İnsanın Atmosfere Etkisi",
+    "body": "Sanayide, ulaşımda ve meskenlerin ısıtılmasında fosil yakıtların kullanımı; atmosferde karbondioksit, karbonmonoksit ve metan gibi ısıyı artıran gazların miktarını yükseltir. Sera gazı denen bu gazların ve toz parçacıklarının artışı hava kirliliğine de yol açar."
+  },
+  {
+    "id": "tyt-cografya-20-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünya'nın Tektonik Oluşumu ve Jeolojik Zamanlar",
+    "type": "quiz",
+    "question": "Dünya'nın iç yapısıyla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+    "options": [
+      "Yer kabuğu (litosfer) – Dünya'nın katılaşmış dış yüzeyi",
+      "Manto – konveksiyonel akıntıların oluştuğu, iç kuvvetlerin kaynağı",
+      "Çekirdek – yapısında çok nikel ve demir bulunduğu için 'nife' de denir",
+      "Dış çekirdek – katı hâlde, iç çekirdek – sıvı hâlde"
+    ],
+    "answerIndex": 3,
+    "explanation": "Doğrusu tersidir: dış çekirdek sıvı hâlde, iç çekirdek ise katı hâldedir. Diğer eşleştirmeler doğrudur; mantonun üst, akışkan bölümüne astenosfer denir."
+  },
+  {
+    "id": "tyt-cografya-20-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünya'nın Tektonik Oluşumu ve Jeolojik Zamanlar",
+    "type": "truefalse",
+    "statement": "Alfred Wegener'in Kıtaların Kayma Teorisi'ne göre bugünkü kıtalar, Pangea adı verilen tek bir kıtanın parçalanıp ayrılmasıyla oluşmuştur.",
+    "answer": true,
+    "explanation": "Wegener, yer kabuğunun hareketli levhalardan oluştuğunu ve kıtaların Pangea adlı tek kıtanın bölünmesiyle bugünkü şeklini aldığını ileri sürmüştür. Levhalar mantodaki konveksiyonel akıntılarla hareket eder."
+  },
+  {
+    "id": "tyt-cografya-20-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünya'nın Tektonik Oluşumu ve Jeolojik Zamanlar",
+    "type": "quiz",
+    "question": "Taş kömürü yataklarının oluşumu ve Pangea Kıtası'nın oluşumu hangi jeolojik zamana aittir?",
+    "options": [
+      "Prekambriyen (İlkel Zaman)",
+      "Paleozoyik (I. Jeolojik Zaman)",
+      "Mesozoyik (II. Jeolojik Zaman)",
+      "Senozoyik (III. Jeolojik Zaman)"
+    ],
+    "answerIndex": 1,
+    "explanation": "Paleozoyik'te Pangea oluşmuş, taş kömürü yatakları meydana gelmiş ve Kaledoniyen-Hersiniyen sıradağları oluşmuştur. Mesozoyik'te Pangea parçalanmış (Lavrasya-Gondvana), Senozoyik'te ise Alp-Himalaya dağları oluşmuştur."
+  },
+  {
+    "id": "tyt-cografya-21-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İç Kuvvetler ve Kayaçlar",
+    "type": "quiz",
+    "question": "Yan basınçlarla sıkışan sert tabakaların kırılması sonucu yüksekte kalan bölümlere ve alçakta kalan çöküntü alanlarına sırasıyla ne ad verilir?",
+    "options": [
+      "Antiklinal – senklinal",
+      "Horst – graben",
+      "Lakolit – batolit",
+      "Krater – kaldera"
+    ],
+    "answerIndex": 1,
+    "explanation": "Kırılma sonucu yüksekte kalan yerlere horst, alçakta kalan çöküntülere graben denir. Antiklinal-senklinal ise kıvrılma (kırılmadan) sonucu oluşan kubbe ve çanaklardır."
+  },
+  {
+    "id": "tyt-cografya-21-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İç Kuvvetler ve Kayaçlar",
+    "type": "flashcard",
+    "front": "Karaların alçalarak deniz sularının karaya doğru ilerlemesi olayına ne ad verilir?",
+    "back": "Transgresyon (deniz ilerlemesi). Tersine, karaların yükselip deniz sularının geri çekilmesine ise regresyon (deniz gerilemesi) denir. Bunlar epirojenez kapsamındadır."
+  },
+  {
+    "id": "tyt-cografya-21-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İç Kuvvetler ve Kayaçlar",
+    "type": "truefalse",
+    "statement": "Derinlik (iç püskürük) kayaçların iri kristalli, yüzey (dış püskürük) kayaçların ise ince kristalli olmasının nedeni soğuma hızındaki farktır.",
+    "answer": true,
+    "explanation": "Derinlik kayaçlarında magma yer kabuğu içinde yavaş soğuduğu için iri kristaller oluşur; yüzey kayaçlarında ise magma yüzeyde hızlı soğuduğu için kristaller ince kalır."
+  },
+  {
+    "id": "tyt-cografya-21-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İç Kuvvetler ve Kayaçlar",
+    "type": "cloze",
+    "text": "Kireç taşının (kalker) yüksek sıcaklık ve basınç altında başkalaşması (metamorfizma) ile ___ adı verilen kayaç oluşur.",
+    "answer": "mermer",
+    "explanation": "Başkalaşım kayaçları yüksek sıcaklık ve basınç etkisiyle oluşur: kalkerden mermer, kil taşından şist, granitten gnays, kum taşından kuvarsit meydana gelir."
+  },
+  {
+    "id": "tyt-cografya-21-005",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "İç Kuvvetler ve Kayaçlar",
+    "type": "quiz",
+    "question": "Bir depremde, yer kabuğunun içinde depremin asıl meydana geldiği yere ne ad verilir?",
+    "options": [
+      "Dış merkez (episantr)",
+      "Odak noktası (iç merkez)",
+      "Fay düzlemi",
+      "Richter ölçeği"
+    ],
+    "answerIndex": 1,
+    "explanation": "Depremin yer içinde asıl oluştuğu yer odak noktası (iç merkez); yeryüzünde buna en yakın ve en çok etkilenen yer ise dış merkezdir. Büyüklük Richter ölçeğiyle, sismograf aletiyle ölçülür."
+  },
+  {
+    "id": "tyt-cografya-22-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Buzullar)",
+    "type": "quiz",
+    "question": "Yıl boyunca erimeden kalan karın inebildiği en alt yükselti seviyesi olan kalıcı kar sınırıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Sıcak kuşakta deniz seviyesindedir",
+      "Kutuplardan ekvatora gidildikçe alçalır",
+      "Sıcak kuşakta 5.000-6.000 m civarındayken kutuplara gidildikçe deniz seviyesine kadar alçalır",
+      "Her yerde aynı yükseltidedir"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kalıcı kar sınırı sıcaklığa bağlıdır: sıcak kuşakta 5.000-6.000 m kadar yüksekken, kutuplara doğru sıcaklık düştüğü için deniz seviyesine kadar alçalır."
+  },
+  {
+    "id": "tyt-cografya-22-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Buzullar)",
+    "type": "flashcard",
+    "front": "Buzulların kopardığı, sürüklediği ve eridiği alana yığdığı çeşitli boyuttaki malzemelere ne ad verilir?",
+    "back": "Moren. Düz arazide taban morenlerinin yığılmasıyla drumlin adlı tepeler oluşur."
+  },
+  {
+    "id": "tyt-cografya-22-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Buzullar)",
+    "type": "truefalse",
+    "statement": "Kalıcı karların üst üste yığılıp sıkışmasıyla önce buzkar (neve), bunun daha da sıkışmasıyla buzul (glasiye) oluşur.",
+    "answer": true,
+    "explanation": "Buzul oluşumu kademelidir: kalıcı kar (toktağan) → aralarındaki boşluğun azalmasıyla buzkar (neve) → buzkarın sıkışmasıyla buzul (glasiye)."
+  },
+  {
+    "id": "tyt-cografya-23-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Akarsular)",
+    "type": "quiz",
+    "question": "Akarsuyun, eğimin fazla olduğu yerde yatağının tabanını aşındırmasına ne denir ve bu aşındırmanın ağızdan kaynağa doğru ilerlemesine ne ad verilir?",
+    "options": [
+      "Yana aşındırma – derine aşındırma",
+      "Derine aşındırma – geriye aşındırma",
+      "Geriye aşındırma – kimyasal aşındırma",
+      "Kimyasal aşındırma – fiziksel aşındırma"
+    ],
+    "answerIndex": 1,
+    "explanation": "Eğimli yerlerde akarsu yatağının tabanını kazmasına derine aşındırma denir; bu aşındırmanın ağızdan kaynağa doğru gerilemesi ise geriye aşındırmadır. Yana aşındırma akış hızının azaldığı yerlerde olur."
+  },
+  {
+    "id": "tyt-cografya-23-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Akarsular)",
+    "type": "info",
+    "title": "Delta neden her kıyıda oluşmaz?",
+    "body": "Delta, akarsuyun taşıdığı alüvyonları denize veya göle döküldüğü yerde biriktirmesiyle oluşan düzlüktür. Oluşabilmesi için kıyı derinliğinin az olması, akarsuyun bol alüvyon taşıması, güçlü dalga ve akıntıların bulunmaması ve gelgitin etkili olmaması gerekir.",
+    "tip": "Bu koşullardan biri bile bozulduğunda (örneğin güçlü dalga ya da derin kıyı) alüvyon dağılır ve delta gelişemez."
+  },
+  {
+    "id": "tyt-cografya-23-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Akarsular)",
+    "type": "quiz",
+    "question": "Bir akarsu menderes oluşturmaya başladığında aşağıdakilerden hangisi gerçekleşmez?",
+    "options": [
+      "Akarsuyun boyu uzar",
+      "Yanlara doğru aşındırması artar",
+      "Derine doğru aşındırması artar",
+      "Enerji potansiyeli azalır"
+    ],
+    "answerIndex": 2,
+    "explanation": "Menderes, eğimin azaldığı yerlerde oluşur. Bu durumda akarsuyun boyu uzar, yana aşındırması artar, enerji potansiyeli ve derine aşındırması azalır; sık yatak değiştirir. Dolayısıyla derine aşındırmanın artması beklenmez."
+  },
+  {
+    "id": "tyt-cografya-23-004",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Akarsular)",
+    "type": "info",
+    "title": "Taban seviyesi ve denge profili",
+    "body": "Akarsu aşındırmasının büyük ölçüde sona erdiği yükselti seviyesine taban seviyesi denir; okyanus ve denizler genel taban seviyesidir. Akarsuyun yatağını bu seviyeye kadar yaklaştırmasına ise denge profili denir.",
+    "tip": "Bir akarsu denge profiline ulaşırsa akış hızı, aşındırma gücü ve enerji potansiyeli azalır."
+  },
+  {
+    "id": "tyt-cografya-23-005",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dış Kuvvetler (Akarsular)",
+    "type": "info",
+    "title": "Akarsu Vadi Tipleri",
+    "body": "Vadi, akarsuyun yatağını derine ve yana aşındırmasıyla oluşan yarıntıdır; tipi arazinin eğimine ve jeolojik yapısına göre değişir. Dağ yamaçlarından hızla inen akarsuların derine kazmasıyla tabansız kertik vadi; akış yönünde yüksek arazilerin yarılmasıyla derin ve uzun boğaz vadi; yatay tabakalı, çözünebilen kayaçlarda dik yamaçlı kanyon vadi; iki yamacı farklı dirençte aşındığında asimetrik vadi; eğim ve hızın azaldığı yerde yatağını yanlara aşındırmasıyla geniş tabanlı vadi oluşur.",
+    "tip": "Eğim azaldıkça vadi derinden genişe doğru değişir: kertik → boğaz → geniş tabanlı."
+  },
+  {
+    "id": "tyt-cografya-24-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Şiddetli Rüzgârlar, Sel ve Taşkın, Çığ, Orman Yangınları, Salgın Hastalıklar",
+    "type": "quiz",
+    "question": "Türkiye'deki orman yangınlarının çıkış nedenleriyle ilgili olarak doğru olan ifade hangisidir?",
+    "options": [
+      "Yaklaşık %87'si insan eliyle çıkarılmaktadır.",
+      "Tamamı yıldırım düşmesi gibi doğal nedenlerden kaynaklanır.",
+      "Çoğunlukla kış aylarında ve İç Anadolu'da görülür.",
+      "Yalnızca volkanik patlamalar sonucu oluşur."
+    ],
+    "answerIndex": 0,
+    "explanation": "Türkiye'de orman yangınlarının yaklaşık %87'si insan eliyle çıkarılmaktadır; dünya genelinde de yangınların yalnızca %1'i doğal nedenlidir. Yangınlar daha çok yaz kuraklığının yaşandığı haziran-kasım arasında Batı ve Güneybatı Anadolu'da görülür."
+  },
+  {
+    "id": "tyt-cografya-24-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Şiddetli Rüzgârlar, Sel ve Taşkın, Çığ, Orman Yangınları, Salgın Hastalıklar",
+    "type": "truefalse",
+    "statement": "Çığ, genellikle bitki örtüsünün zayıf olduğu eğimli yamaçlarda biriken kar kütlesinin kayması sonucu oluşur.",
+    "answer": true,
+    "explanation": "Çığ, bitki örtüsünün zayıf olduğu eğimli yamaçlarda tabakalar hâlinde birikmiş kar kütlesinin kayması sonucu oluşur. Deprem, ani sıcaklık değişimi ve titreşimler çığ olayını artırabilir."
+  },
+  {
+    "id": "tyt-cografya-24-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Şiddetli Rüzgârlar, Sel ve Taşkın, Çığ, Orman Yangınları, Salgın Hastalıklar",
+    "type": "cloze",
+    "text": "Afet anında ve sonrasında yapılan müdahale ve iyileştirme çalışmalarının bütününe ___ adı verilir.",
+    "answer": "kriz yönetimi",
+    "options": [
+      "kriz yönetimi",
+      "risk yönetimi",
+      "erken uyarı"
+    ],
+    "explanation": "Afetlerle mücadele iki aşamalıdır: afet öncesi zarar azaltma ve hazırlık çalışmaları risk yönetimi; afet anı ve sonrası müdahale ile iyileştirme ise kriz yönetimidir."
+  },
+  {
+    "id": "tyt-cografya-25-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Deprem, Tsunami, Volkanik Faaliyetler, Kütle Hareketleri, Erozyon",
+    "type": "quiz",
+    "question": "Türkiye'de tektonik hareketliliğin ve deprem riskinin fazla olmasının temel nedeni aşağıdakilerden hangisidir?",
+    "options": [
+      "Alp-Himalaya Fay Kuşağı üzerinde, hareketli levhalar arasında ve çok kırıklı bir arazide yer alması",
+      "Aktif volkanlarının çok sayıda olması",
+      "Akarsularının yatak eğiminin fazla olması",
+      "Kıyı şeridinin uzun olması"
+    ],
+    "answerIndex": 0,
+    "explanation": "Türkiye, Alp-Himalaya Fay Kuşağı üzerinde, birbirine doğru hareket eden Avrasya, Afrika ve Arap levhaları arasında ve çok kırıklı bir arazi yapısına sahiptir. Bu durum ülkede tektonik hareketliliği ve deprem riskini artırır."
+  },
+  {
+    "id": "tyt-cografya-25-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Deprem, Tsunami, Volkanik Faaliyetler, Kütle Hareketleri, Erozyon",
+    "type": "truefalse",
+    "statement": "Türkiye'de günümüzde aktif volkan bulunmaktadır.",
+    "answer": false,
+    "explanation": "Türkiye'de aktif volkan yoktur. Kayıtlara geçen son volkanik faaliyet Nemrut Volkanı'na (1441 ve 1443) aittir; Ağrı, Tendürek, Erciyes ve Hasan dağlarının tarihî çağlarda faaliyet gösterdiğine dair bulgular vardır."
+  },
+  {
+    "id": "tyt-cografya-25-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Deprem, Tsunami, Volkanik Faaliyetler, Kütle Hareketleri, Erozyon",
+    "type": "info",
+    "title": "Türkiye ve Erozyon Tehlikesi",
+    "body": "Erozyon, bitki örtüsünün tahrip edilmesiyle toprağın su, rüzgâr ve insan faaliyetleriyle aşınarak taşınması olayıdır. Türkiye topraklarının yaklaşık %86'sı erozyon tehlikesi altındadır ve önlem alınmazsa 55 yıllık bir süreçte topraklarımızın büyük kısmı çölleşme tehlikesiyle karşı karşıya kalabilir.",
+    "tip": "Erozyona karşı en etkili önlem ağaçlandırma ve eğimli arazilerde basamaklandırmadır."
+  },
+  {
+    "id": "tyt-cografya-26-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada Su Kaynakları",
+    "type": "truefalse",
+    "statement": "Yeryüzünün yaklaşık %71'i sularla, %29'u karalarla kaplıdır.",
+    "answer": true,
+    "explanation": "510 milyon km²'lik yeryüzünün yaklaşık %71'i sular, %29'u karalardan oluşur. Okyanus sularının ortalama tuzluluk oranı ise ‰35'tir."
+  },
+  {
+    "id": "tyt-cografya-26-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada Su Kaynakları",
+    "type": "cloze",
+    "text": "Dışarıya akışı olan yani gideğeni bulunan göllerin suları tatlı iken, gideğeni olmayan göllerin suları ___ veya acı olur.",
+    "answer": "tuzlu",
+    "options": [
+      "tuzlu",
+      "berrak",
+      "soğuk",
+      "donmuş"
+    ],
+    "explanation": "Gideğeni (göl ayağı) olan göllerde su sürekli dışarı aktığından tuzlar birikmez ve su tatlı kalır. Gideğeni olmayan göllerde ise buharlaşmayla tuz birikir, su tuzlu, sodalı ya da acı olur."
+  },
+  {
+    "id": "tyt-cografya-27-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye'de Su Kaynakları",
+    "type": "quiz",
+    "question": "Türkiye'yi çevreleyen denizler tuzluluk oranlarına göre en tuzludan en az tuzluya doğru nasıl sıralanır?",
+    "options": [
+      "Akdeniz > Ege > Marmara > Karadeniz",
+      "Karadeniz > Marmara > Ege > Akdeniz",
+      "Marmara > Akdeniz > Karadeniz > Ege",
+      "Ege > Akdeniz > Karadeniz > Marmara"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tuzluluk oranları ortalama olarak Akdeniz ‰38, Ege ‰35, Marmara ‰22 ve Karadeniz ‰18'dir. Akdeniz'de buharlaşmanın yüksek olması, Karadeniz'in ise çok sayıda akarsuyla beslenmesi bu farkı oluşturur."
+  },
+  {
+    "id": "tyt-cografya-27-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye'de Su Kaynakları",
+    "type": "quiz",
+    "question": "Ülke sınırları içinde bulunan en uzun akarsuyumuz hangisidir?",
+    "options": [
+      "Kızılırmak",
+      "Fırat",
+      "Sakarya",
+      "Yeşilırmak"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kızılırmak, 1.355 km uzunluğuyla ülke sınırları içinde bulunan en uzun akarsudur ve Karadeniz Havzası'ndadır. Fırat daha uzun olsa da ülke sınırları dışında Basra Körfezi'ne dökülür."
+  },
+  {
+    "id": "tyt-cografya-27-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye'de Su Kaynakları",
+    "type": "flashcard",
+    "front": "Van Gölü nasıl bir oluşuma sahiptir?",
+    "back": "Van Gölü, tektonik-volkanik set oluşumlu karma bir göldür. Çöken bir çanağın önünün Nemrut Volkanı'nın lavlarıyla kapanması sonucu oluşmuştur."
+  },
+  {
+    "id": "tyt-cografya-28-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada ve Türkiye'de Topraklar",
+    "type": "quiz",
+    "question": "Oluşumunda iklim ve bitki örtüsünün etkisinin ön planda olduğu, ana materyalin ayrışmasıyla oluşmuş yerli topraklara ne ad verilir?",
+    "options": [
+      "Zonal topraklar",
+      "İntrazonal topraklar",
+      "Azonal topraklar",
+      "Taşınmış topraklar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Oluşumunda iklim etkisinin ön planda olduğu yerli topraklar zonal topraklardır (örn. terra rossa, çernezyom). İntrazonal topraklarda ana materyal, azonal topraklarda ise dış kuvvetlerin taşıdığı malzeme belirleyicidir."
+  },
+  {
+    "id": "tyt-cografya-28-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada ve Türkiye'de Topraklar",
+    "type": "cloze",
+    "text": "Akdeniz iklim bölgesinde kızılçam ve maki örtüsü altında oluşan, demirin oksitlenmesiyle kırmızımsı renk alan toprak türü ___ topraktır.",
+    "answer": "terra rossa",
+    "explanation": "Terra rossa (kırmızı Akdeniz toprağı), Akdeniz iklim bölgesinde oluşan zonal bir topraktır. Türkiye'de Akdeniz, Ege kıyı kuşağı ve Güney Marmara'da görülür; zeytin ve turunçgil yetiştirilir."
+  },
+  {
+    "id": "tyt-cografya-28-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada ve Türkiye'de Topraklar",
+    "type": "truefalse",
+    "statement": "Alüvyal topraklar, akarsuların taşıyıp biriktirdiği malzemelerden oluşan ve katmanlaşması belirgin olmayan azonal topraklardır.",
+    "answer": true,
+    "explanation": "Alüvyal toprak azonal bir toprak türüdür; akarsuların taşıdığı ince malzemelerin birikmesiyle oluşur, katmanlaşması belirgin değildir ve mineralce zengin, verimli topraklardır. Çukurova ve Bafra gibi delta ovalarında görülür."
+  },
+  {
+    "id": "tyt-cografya-29-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada ve Türkiye'de Bitkiler",
+    "type": "quiz",
+    "question": "Çok dar bir bölgede nadir olarak görülen, başka yerlerde rastlanmayan bitkilere ne ad verilir?",
+    "options": [
+      "Endemik bitkiler",
+      "Kozmopolit bitkiler",
+      "Relikt bitkiler",
+      "Maki bitkileri"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dar bir bölgede yetişen, başka sahalarda görülmeyen bitkilere endemik bitki denir. Dünyanın birçok bölgesinde yetişebilenlere ise kozmopolit bitki denir. Türkiye'deki yaklaşık 12.000 bitki türünün 3.800'ü endemiktir."
+  },
+  {
+    "id": "tyt-cografya-29-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada ve Türkiye'de Bitkiler",
+    "type": "info",
+    "title": "Maki Bitki Örtüsü",
+    "body": "Maki, Akdeniz iklim bölgesinde kızılçam ormanlarının tahrip edildiği alanlarda görülen, yaz kuraklığına dayanıklı bodur ağaç ve çalılardan oluşur. Yaprakları dar, sert, parlak ve tüylüdür. Yabani zeytin, defne, zakkum, keçiboynuzu ve mersin başlıca maki türleridir.",
+    "tip": "Maki, Akdeniz kıyısında ~1000 m'ye, Ege'de ~800 m'ye, Marmara'da ~500 m'ye kadar yükselir."
+  },
+  {
+    "id": "tyt-cografya-29-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Dünyada ve Türkiye'de Bitkiler",
+    "type": "flashcard",
+    "front": "Antropojen step nedir?",
+    "back": "Meşe, ardıç ve karaçam ormanlarının tahrip edildiği alanlarda insan etkisiyle sonradan yayılan bozkırlardır. Daha yağışlı alanlarda seyrek ağaçlar da bulunduğundan 'ağaçlı bozkır' da denir."
+  },
+  {
+    "id": "tyt-cografya-30-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nüfusun Özellikleri ve Gelişimi",
+    "type": "quiz",
+    "question": "Bir yerin nüfusu hesaplanırken yalnızca doğum ve ölümlerin dikkate alınıp göçlerin dâhil edilmediği yönteme ne ad verilir?",
+    "options": [
+      "Doğal nüfus artışı",
+      "Gerçek nüfus artışı",
+      "Aritmetik nüfus yoğunluğu",
+      "Ortanca yaş"
+    ],
+    "answerIndex": 0,
+    "explanation": "Yalnızca doğum ve ölümlerin dikkate alındığı, göçlerin hesaba katılmadığı yönteme doğal nüfus artışı denir. Göçler de eklenirse gerçek nüfus artışı hesaplanmış olur."
+  },
+  {
+    "id": "tyt-cografya-30-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nüfusun Özellikleri ve Gelişimi",
+    "type": "truefalse",
+    "statement": "0-14 yaş grubu ile 65 yaş ve üzeri nüfus, üretime katılmadığı varsayıldığı için bağımlı nüfus olarak adlandırılır.",
+    "answer": true,
+    "explanation": "Genellikle 0-14 yaş (genç/çocuk) ve 65 yaş üstü (yaşlı) nüfus, üretim faaliyetlerine katılmadığı varsayıldığından bağımlı nüfus sayılır. 15-64 yaş ise çalışma çağındaki nüfustur."
+  },
+  {
+    "id": "tyt-cografya-30-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nüfusun Özellikleri ve Gelişimi",
+    "type": "info",
+    "title": "Türkiye'de Nüfus Sayımlarının Tarihi",
+    "body": "Osmanlı Devleti'nde ilk nüfus sayımı 1831'de II. Mahmut Dönemi'nde, vergi ve asker yükümlülüklerini belirlemek amacıyla yapılmıştır. Türkiye Cumhuriyeti'nde modern anlamda ilk nüfus sayımı ise 1927'de gerçekleştirilmiştir.",
+    "tip": "20. yüzyıldan önce sayımlar daha çok vergi toplama ve askere alma gibi sınırlı amaçlarla yapılırdı."
+  },
+  {
+    "id": "tyt-cografya-31-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nüfusun Dağılışı ve Nüfus Piramitleri",
+    "type": "quiz",
+    "question": "Bir ülkenin nüfus piramidinin tabanının geniş olması aşağıdakilerden hangisini gösterir?",
+    "options": [
+      "Doğum oranının ve nüfus artış hızının fazla olduğunu",
+      "Yaşlı nüfusun çoğunlukta olduğunu",
+      "Beklenen yaşam süresinin uzun olduğunu",
+      "Ülkenin yüksek gelişmişlik düzeyinde olduğunu"
+    ],
+    "answerIndex": 0,
+    "explanation": "Piramidin tabanının geniş olması doğum oranının, çocuk nüfusun ve nüfus artış hızının fazla olduğunu gösterir. Üst kısmın hızla daralması ise yaşlı nüfusun az, beklenen yaşam süresinin kısa olduğunu ortaya koyar."
+  },
+  {
+    "id": "tyt-cografya-31-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Nüfusun Dağılışı ve Nüfus Piramitleri",
+    "type": "cloze",
+    "text": "Bir yerdeki toplam nüfusun o yerin yüz ölçümüne oranına ___ nüfus yoğunluğu denir.",
+    "answer": "aritmetik",
+    "explanation": "Toplam nüfusun yüz ölçüme oranına aritmetik nüfus yoğunluğu denir. Birim genellikle kişi/km² olarak ifade edilir."
+  },
+  {
+    "id": "tyt-cografya-32-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye Nüfusu",
+    "type": "quiz",
+    "question": "Türkiye'de kentsel nüfusun kırsal nüfusu ilk kez geçtiği dönem aşağıdakilerden hangisidir?",
+    "options": [
+      "1980'li yıllar",
+      "1927 sayımı",
+      "1950'li yıllar",
+      "2007 sonrası"
+    ],
+    "answerIndex": 0,
+    "explanation": "Köyden kente göçün etkisiyle kentsel nüfus 1980'li yıllarda kırsal nüfusu geçmiştir. Bu artış sürmüş ve 2023'te kentsel nüfus oranı %93'e ulaşırken kırsal nüfus %7'ye gerilemiştir."
+  },
+  {
+    "id": "tyt-cografya-32-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Türkiye Nüfusu",
+    "type": "truefalse",
+    "statement": "Türkiye'de ortanca yaş 2007'de 28,3 iken 2023'te 34'e yükselmiştir.",
+    "answer": true,
+    "explanation": "Doğurganlık ve ölüm oranlarındaki azalmaya bağlı olarak Türkiye'de yaşlı nüfus artmış, ortanca yaş 2007'deki 28,3'ten 2023'te 34'e yükselmiştir. Bu, nüfusun yaşlanmaya başladığını gösterir."
+  },
+  {
+    "id": "tyt-cografya-33-001",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Göçler",
+    "type": "quiz",
+    "question": "İnsanların kendi ülke sınırları içinde yer değiştirmesiyle gerçekleşen göçlere ne ad verilir?",
+    "options": [
+      "İç göç",
+      "Dış göç",
+      "Mübadele göçü",
+      "Beyin göçü"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ülke sınırları içinde yapılan yer değiştirmeye iç göç, başka bir ülkeye yapılana ise dış (uluslararası) göç denir. Köyden kente göç tipik bir iç göç örneğidir."
+  },
+  {
+    "id": "tyt-cografya-33-002",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Göçler",
+    "type": "flashcard",
+    "front": "Beyin göçü nedir?",
+    "back": "İyi eğitim görmüş, kalifiye ve yetenekli kişilerin az gelişmiş bir ülkeden daha yüksek gelir ve iş imkânlarının bulunduğu gelişmiş bir ülkeye göçüdür. Ülkeler arasındaki gelişmişlik farkını artırır."
+  },
+  {
+    "id": "tyt-cografya-33-003",
+    "exam": "tyt",
+    "subject": "cografya",
+    "topic": "Göçler",
+    "type": "cloze",
+    "text": "1923'te Türkiye ile Yunanistan arasında, iki ülkedeki nüfusun karşılıklı yer değiştirmesiyle gerçekleşen zorunlu göçe ___ göçü denir.",
+    "answer": "mübadele",
+    "explanation": "Bir antlaşma esasına dayanarak iki ülkedeki nüfusun karşılıklı yer değiştirmesine mübadele göçü denir ve zorunlu göç kapsamındadır. 30 Ocak 1923'te Türkiye ile Yunanistan arasında yapılmıştır."
+  },
+  {
+    "id": "tyt-fizik-01-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Fizik Bilimine Giriş",
+    "type": "quiz",
+    "question": "Bina yalıtımı, ısıtma-soğutma sistemleri ve küresel ısınma gibi konular fiziğin hangi alt dalının çalışma alanına girer?",
+    "options": [
+      "Mekanik",
+      "Optik",
+      "Termodinamik",
+      "Elektromanyetizma"
+    ],
+    "answerIndex": 2,
+    "explanation": "Termodinamik; ısıyı, sıcaklığı ve enerjiyi konu alan alt daldır. Isı alışverişi, ısıl denge ve hâl değişimi ile ilgilenir; bu nedenle ısıtma-soğutma sistemleri ve küresel ısınma onun çalışma alanındadır."
+  },
+  {
+    "id": "tyt-fizik-01-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Fizik Bilimine Giriş",
+    "type": "truefalse",
+    "statement": "Temel büyüklüklerin tamamı skalerken, türetilmiş büyüklüklerin bir kısmı skaler bir kısmı vektöreldir.",
+    "answer": true,
+    "explanation": "Kütle, sıcaklık, zaman gibi temel büyüklüklerin hepsi skalerdir. Türetilmiş büyüklüklerin ise özkütle ve enerji gibi bazıları skaler, kuvvet ve hız gibi bazıları vektöreldir."
+  },
+  {
+    "id": "tyt-fizik-02-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Madde",
+    "type": "quiz",
+    "question": "Aşağıdaki özelliklerden hangisi maddeler için ayırt edici bir özellik değildir?",
+    "options": [
+      "Erime sıcaklığı",
+      "Özkütle",
+      "Kütle",
+      "Öz ısı"
+    ],
+    "answerIndex": 2,
+    "explanation": "Kütle, hacim ve eylemsizlik tüm maddelerde bulunan ortak özelliklerdir. Erime sıcaklığı, özkütle ve öz ısı ise maddeden maddeye değiştiği için ayırt edici özelliklerdir."
+  },
+  {
+    "id": "tyt-fizik-03-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Özkütle",
+    "type": "cloze",
+    "text": "Bir maddenin birim hacmindeki kütle miktarına ___ denir ve aynı sıcaklık ve basınçta maddeler için ayırt edici bir özelliktir.",
+    "answer": "özkütle",
+    "options": [
+      "özkütle",
+      "ağırlık",
+      "eylemsizlik"
+    ],
+    "explanation": "Özkütle (yoğunluk), kütlenin hacme oranıdır (d = m/V). Aynı maddeden yapılan iki cismin kütle ve hacmi farklı olsa da özkütleleri aynıdır."
+  },
+  {
+    "id": "tyt-fizik-03-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Özkütle",
+    "type": "quiz",
+    "question": "Özkütleleri farklı, homojen karışan iki sıvıdan eşit hacimde alınıp karıştırılırsa karışımın özkütlesi ne olur?",
+    "options": [
+      "İki sıvının özkütlelerinin aritmetik ortalamasına eşit olur",
+      "Özkütlesi büyük olan sıvının özkütlesine eşit olur",
+      "Özkütlesi küçük olan sıvının özkütlesine eşit olur",
+      "İki özkütlenin toplamına eşit olur"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eşit hacimli iki sıvı karıştırıldığında karışımın özkütlesi, sıvıların özkütlelerinin aritmetik ortalamasına eşittir: d = (d1 + d2) / 2."
+  },
+  {
+    "id": "tyt-fizik-04-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Dayanıklılık",
+    "type": "quiz",
+    "question": "Bir cismin boyutları orantılı olarak büyütülürse kendi ağırlığına karşı dayanıklılığı nasıl değişir?",
+    "options": [
+      "Değişmez, çünkü dayanıklılık maddenin cinsine bağlıdır",
+      "Azalır, çünkü hacim alandan daha hızlı artar",
+      "Artar, çünkü kesit alanı büyür",
+      "Önce artar sonra azalır"
+    ],
+    "answerIndex": 1,
+    "explanation": "Dayanıklılık kesit alanının hacme oranıyla orantılıdır. Boyut büyütüldüğünde alan boyutun karesiyle, hacim küpüyle artar; hacim daha hızlı büyüdüğünden bu oran küçülür ve dayanıklılık azalır."
+  },
+  {
+    "id": "tyt-fizik-05-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Adezyon, Kohezyon, Yüzey Gerilim ve Kılcallık",
+    "type": "quiz",
+    "question": "Bir sıvının damlatıldığı bir yüzeyi ıslatması (yüzeye yayılması) için aşağıdakilerden hangisi gereklidir?",
+    "options": [
+      "Kohezyon kuvvetinin adezyon kuvvetinden büyük olması",
+      "Adezyon kuvvetinin kohezyon kuvvetinden büyük olması",
+      "Adezyon ve kohezyon kuvvetlerinin sıfır olması",
+      "Yüzey geriliminin sıfır olması"
+    ],
+    "answerIndex": 1,
+    "explanation": "Adezyon (farklı maddeler arası çekim) kohezyondan (aynı madde molekülleri arası çekim) büyük olduğunda sıvı yüzeye yayılır ve onu ıslatır. Su damlasının yüzeye yayılması buna örnektir."
+  },
+  {
+    "id": "tyt-fizik-05-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Adezyon, Kohezyon, Yüzey Gerilim ve Kılcallık",
+    "type": "info",
+    "title": "Sıcaklık yüzey gerilimini azaltır",
+    "body": "Yüzey gerilimi, sıvı moleküllerini bir arada tutan kohezyon kuvvetine bağlıdır. Sıcaklık arttığında moleküllerin kinetik enerjisi yükselir ve aralarındaki kohezyon kuvveti zayıflar; bu nedenle sıvının yüzey gerilimi azalır.",
+    "tip": "Sıcak su lekeleri daha kolay çıkarır çünkü yüzey gerilimi düşüktür."
+  },
+  {
+    "id": "tyt-fizik-06-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Hareket Kavramları",
+    "type": "info",
+    "title": "Hareketin Üç Çeşidi",
+    "body": "Öteleme hareketinde bir hareketlinin doğrultu üzerindeki tüm noktaları eşit miktarda ilerler (yolda giden araba). Dönme hareketinde cisim, kütle merkezinin yeri değişmeden sabit bir eksen etrafında döner (dönme dolap). Titreşim hareketinde ise cisim iki nokta arasında gidip gelir (gitar teli).",
+    "tip": "Bir cisim aynı anda birden fazla hareket çeşidini birlikte yapabilir; örneğin yuvarlanan bir tekerlek hem öteleme hem dönme yapar."
+  },
+  {
+    "id": "tyt-fizik-06-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Hareket Kavramları",
+    "type": "truefalse",
+    "statement": "Bir referans noktasına göre durgun olan bir cisim, başka bir referans noktasına göre hareketli olabilir.",
+    "answer": true,
+    "explanation": "Hareket görecelidir. Yürüyen platformdaki yolcular birbirini hareketsiz görürken, platform dışındaki bir gözlemci onları hareketli görür. Hareket, seçilen referans noktasına bağlıdır."
+  },
+  {
+    "id": "tyt-fizik-06-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Hareket Kavramları",
+    "type": "quiz",
+    "question": "Hız ile sürat arasındaki temel fark aşağıdakilerden hangisidir?",
+    "options": [
+      "Hız alınan yola, sürat yer değiştirmeye bağlıdır",
+      "Hız vektörel ve yer değiştirmeye, sürat skaler ve alınan yola bağlıdır",
+      "Hız skaler, sürat vektöreldir",
+      "İkisi de her zaman birbirine eşittir"
+    ],
+    "answerIndex": 1,
+    "explanation": "Hız, yer değiştirmenin zamana oranıdır ve vektöreldir. Sürat ise alınan yolun zamana oranıdır ve skalerdir. Yön değiştirmeden doğrusal harekette büyüklükleri eşit olur."
+  },
+  {
+    "id": "tyt-fizik-06-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Hareket Kavramları",
+    "type": "flashcard",
+    "front": "1 m/s kaç km/h'dir?",
+    "back": "1 m/s = 3,6 km/h. Yani m/s biriminden km/h birimine geçmek için değer 3,6 ile çarpılır (10 m/s = 36 km/h)."
+  },
+  {
+    "id": "tyt-fizik-07-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "İvme Kavramı",
+    "type": "info",
+    "title": "İvme Nedir?",
+    "body": "Birim zamandaki hız değişimine ivme denir. İvme vektörel bir büyüklük olup SI'da birimi m/s² dir. Bir cismin hızı artıyor veya azalıyorsa cisim ivmeli hareket yapar.",
+    "tip": "Sabit hızlı hareket yapan ya da duran bir cismin ivmesi sıfırdır; çünkü hızında bir değişim yoktur."
+  },
+  {
+    "id": "tyt-fizik-07-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "İvme Kavramı",
+    "type": "quiz",
+    "question": "Düzgün yavaşlayan doğrusal harekette ivme ile hız vektörlerinin yönleri için ne söylenebilir?",
+    "options": [
+      "Aynı yönlüdürler",
+      "İvme sıfırdır",
+      "Birbirine zıt yönlüdürler",
+      "Birbirine dik yönlüdürler"
+    ],
+    "answerIndex": 2,
+    "explanation": "Düzgün yavaşlayan harekette hız zamanla azalır. Bunun olması için sabit ivmenin hıza zıt yönlü olması gerekir; ivme hareketi yavaşlatacak yönde etki eder."
+  },
+  {
+    "id": "tyt-fizik-07-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "İvme Kavramı",
+    "type": "cloze",
+    "text": "Hız-zaman grafiğinde doğrunun eğimi ivmeyi verirken, doğru ile zaman ekseni arasında kalan ___ hızdaki değişimi verir.",
+    "answer": "alan",
+    "options": [
+      "alan",
+      "eğim",
+      "uzunluk"
+    ],
+    "explanation": "Hız-zaman grafiğinde eğim ivmeyi, eğri altındaki alan ise hız değişimini (Δv = a·t) verir. İvme-zaman grafiğindeki alan da hız değişimine eşittir."
+  },
+  {
+    "id": "tyt-fizik-08-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Kuvvet Kavramı",
+    "type": "quiz",
+    "question": "Doğadaki dört temel kuvvet içinde şiddeti en zayıf olan kuvvet hangisidir?",
+    "options": [
+      "Güçlü nükleer kuvvet",
+      "Elektromanyetik kuvvet",
+      "Zayıf nükleer kuvvet",
+      "Kütle çekim kuvveti"
+    ],
+    "answerIndex": 3,
+    "explanation": "Şiddet sıralamasında güçlü nükleer kuvvet en büyük, ardından elektromanyetik kuvvet, sonra zayıf nükleer kuvvet gelir. Kütle çekim kuvveti ise şiddeti en zayıf olan temel kuvvettir."
+  },
+  {
+    "id": "tyt-fizik-08-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Kuvvet Kavramı",
+    "type": "info",
+    "title": "Dengelenmiş Kuvvetler",
+    "body": "Bir cisme etki eden net (bileşke) kuvvet sıfırsa cisim dengelenmiş kuvvetlerin etkisindedir. Bu durumda duran cisim durmaya devam eder, hareketli cisim ise aynı hızla doğrultusunu koruyarak hareketini sürdürür. Masadaki kitap ve sabit hızla giden araç buna örnektir.",
+    "tip": "Net kuvvetin sıfır olması cismin mutlaka durduğu anlamına gelmez; sabit hızla hareket de bir denge durumudur."
+  },
+  {
+    "id": "tyt-fizik-09-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Newton'ın Hareket Yasaları",
+    "type": "quiz",
+    "question": "Düz bir yolda sabit hızla giden bir aracın üzerine etki eden net kuvvet sıfırdır. Bu duruma göre araç için aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      "Sabit hızla hareketine devam eder",
+      "Giderek hızlanır",
+      "Giderek yavaşlar",
+      "Bir süre sonra durur"
+    ],
+    "answerIndex": 0,
+    "explanation": "Newton'ın I. yasasına (eylemsizlik) göre net kuvvet sıfırsa hareket halindeki cisim sabit hızla hareketini sürdürür; hız değişimi için sıfırdan farklı bir net kuvvet gerekir."
+  },
+  {
+    "id": "tyt-fizik-09-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Newton'ın Hareket Yasaları",
+    "type": "quiz",
+    "question": "Sürtünmesiz yüzeyde m kütleli bir cisme F kuvveti a ivmesi kazandırıyor. Aynı cisme 3F büyüklüğünde kuvvet uygulanırsa ivmesi ne olur?",
+    "options": [
+      "3a",
+      "a",
+      "a/3",
+      "9a"
+    ],
+    "answerIndex": 0,
+    "explanation": "Newton'ın II. yasasına göre F = m·a olduğundan, kütle sabitken ivme uygulanan kuvvetle doğru orantılıdır. Kuvvet 3 katına çıkınca ivme de 3a olur."
+  },
+  {
+    "id": "tyt-fizik-09-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Newton'ın Hareket Yasaları",
+    "type": "truefalse",
+    "statement": "Etki ve tepki kuvvetleri eşit büyüklükte ve zıt yönde oldukları için birbirlerini dengeleyerek net kuvveti sıfır yaparlar.",
+    "answer": false,
+    "explanation": "Etki ve tepki kuvvetleri eşit büyüklükte ve zıt yönde olmalarına rağmen birbirlerini dengelemezler; çünkü aynı cisme değil, iki farklı cisme etki ederler."
+  },
+  {
+    "id": "tyt-fizik-09-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Newton'ın Hareket Yasaları",
+    "type": "flashcard",
+    "front": "Kütle ile ağırlık arasındaki temel fark nedir ve her biri hangi araçla ölçülür?",
+    "back": "Kütle değişmeyen madde miktarıdır ve eşit kollu terazi ile ölçülür. Ağırlık ise gezegenin cisme uyguladığı çekim kuvvetidir (G = m·g), vektörel bir büyüklüktür ve dinamometre ile ölçülür."
+  },
+  {
+    "id": "tyt-fizik-10-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Sürtünme Kuvveti",
+    "type": "quiz",
+    "question": "Yatay bir düzlemde kayan bir cisme etki eden sürtünme kuvvetinin büyüklüğü aşağıdakilerden hangisine bağlı değildir?",
+    "options": [
+      "Sürtünen yüzeylerin büyüklüğüne",
+      "Sürtünen yüzeylerin cinsine",
+      "Yüzeyin cisme uyguladığı tepki kuvvetine",
+      "Sürtünme katsayısına"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sürtünme kuvveti yüzeylerin cinsine (k katsayısı) ve normal/tepki kuvvetine (N) bağlıdır (F = k·N), ancak sürtünen yüzeylerin büyüklüğüne bağlı değildir."
+  },
+  {
+    "id": "tyt-fizik-10-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Sürtünme Kuvveti",
+    "type": "truefalse",
+    "statement": "Kinetik sürtünme kuvvetinin büyüklüğü, maksimum statik sürtünme kuvvetinin büyüklüğünden daha küçüktür.",
+    "answer": true,
+    "explanation": "Cisim hareket etmeye başladıktan sonra etki eden kinetik sürtünme kuvveti, cismi harekete geçirmek için aşılması gereken maksimum statik sürtünme kuvvetinden daha küçüktür."
+  },
+  {
+    "id": "tyt-fizik-11-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "İş, Enerji ve Güç Kavramları",
+    "type": "quiz",
+    "question": "Bir öğretmen elindeki kitabı kollarını yatay tutarak yatay yönde sabit hızla taşıyor. Fiziksel anlamda bu durumda kitabın ağırlığına karşı yapılan iş nedir?",
+    "options": [
+      "Sıfırdır",
+      "Ağırlık ile alınan yolun çarpımıdır",
+      "Kitabın kütlesine eşittir",
+      "Negatiftir"
+    ],
+    "answerIndex": 0,
+    "explanation": "İş yapılabilmesi için kuvvetin yola paralel bir bileşeni olmalıdır. Ağırlık aşağı doğru, yer değiştirme ise yatay (diğerine dik) olduğundan ağırlığın yaptığı iş sıfırdır."
+  },
+  {
+    "id": "tyt-fizik-11-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "İş, Enerji ve Güç Kavramları",
+    "type": "cloze",
+    "text": "Birim zamanda yapılan işe veya aktarılan enerjiye ___ denir ve SI'daki birimi watt'tır.",
+    "answer": "güç",
+    "options": [
+      "güç",
+      "iş",
+      "enerji",
+      "ivme"
+    ],
+    "explanation": "Güç (P), birim zamanda yapılan iş ya da aktarılan enerji olarak tanımlanır: P = W/Δt. SI birimi watt'tır."
+  },
+  {
+    "id": "tyt-fizik-12-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Çeşitleri ve Mekanik Enerji",
+    "type": "quiz",
+    "question": "Kütlesi sabit bir cismin hızı 3 katına çıkarılırsa kinetik enerjisi kaç katına çıkar?",
+    "options": [
+      "9",
+      "3",
+      "6",
+      "27"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kinetik enerji E = (1/2)·m·v² ile hesaplanır ve hızın karesiyle doğru orantılıdır. Hız 3 katına çıkınca kinetik enerji 3² = 9 katına çıkar."
+  },
+  {
+    "id": "tyt-fizik-12-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Çeşitleri ve Mekanik Enerji",
+    "type": "flashcard",
+    "front": "Yer çekimi potansiyel enerjisi ile yayın esneklik potansiyel enerjisi hangi bağıntılarla hesaplanır?",
+    "back": "Yer çekimi potansiyel enerjisi E = m·g·h (kütle, yer çekimi ivmesi ve yükseklik). Yayın esneklik potansiyel enerjisi E = (1/2)·k·x² (yay sabiti ve denge noktasından uzaklık)."
+  },
+  {
+    "id": "tyt-fizik-13-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Korunumu",
+    "type": "cloze",
+    "text": "Bir cismin sahip olduğu kinetik enerji ile potansiyel enerjinin toplamına ___ enerji denir.",
+    "answer": "mekanik",
+    "explanation": "Mekanik enerji, kinetik enerji ile potansiyel enerjinin toplamıdır: E(mekanik) = E(kinetik) + E(potansiyel)."
+  },
+  {
+    "id": "tyt-fizik-13-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Korunumu",
+    "type": "quiz",
+    "question": "Sürtünmenin ihmal edildiği bir ortamda A noktasından serbest bırakılan bir cisim B ve C noktalarından geçiyor. Bu üç noktanın mekanik enerjileri için ne söylenebilir?",
+    "options": [
+      "Üç noktada da eşittir",
+      "A'da en büyüktür",
+      "C'de en büyüktür",
+      "B'de en küçüktür"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sürtünmesiz ortamda mekanik enerji korunur. Düşme boyunca potansiyel enerji kinetik enerjiye dönüşür ama toplam mekanik enerji A, B ve C noktalarında eşit kalır."
+  },
+  {
+    "id": "tyt-fizik-13-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Korunumu",
+    "type": "quiz",
+    "question": "Sürtünmeli bir rayda A noktasından bırakılan bir cisim, başlangıçtaki potansiyel enerjisi kadar yüksekliğe geri çıkamayıp gittikçe alçalır. Kaybolan mekanik enerji nereye gitmiştir?",
+    "options": [
+      "Sürtünme nedeniyle ısı enerjisine dönüşmüştür",
+      "Tamamen yok olmuştur",
+      "Cismin kütlesine eklenmiştir",
+      "Potansiyel enerji olarak depolanmıştır"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sürtünmeli ortamda mekanik enerji korunmaz; bir kısmı sürtünmeden kaynaklı olarak ısıya dönüşür. Toplam enerji ise korunur."
+  },
+  {
+    "id": "tyt-fizik-13-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Korunumu",
+    "type": "truefalse",
+    "statement": "Sürtünmenin etkili olduğu gerçek bir ortamda zıplayan bir top, her zıplayışında bir önceki yüksekliğe çıkamaz çünkü mekanik enerjisinin bir kısmı ısıya dönüşür.",
+    "answer": true,
+    "explanation": "Top her yere çarptığında ve hava ile sürtündüğünde enerjisinin bir kısmı ısıya dönüşür, bu nedenle h1 > h2 > h3 > h4 şeklinde gittikçe alçalan yüksekliklere çıkar."
+  },
+  {
+    "id": "tyt-fizik-14-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Verim ve Enerji Kaynakları",
+    "type": "quiz",
+    "question": "Verim ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      "Verim %100 veya %100'den büyük olamaz",
+      "Verimi %100 olan makine yapmak kolaydır",
+      "Verim, harcanan enerjinin yapılan işe oranıdır",
+      "Sürtünme verimi artırır"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verim, yapılan işin harcanan enerjiye oranıdır ve sürtünme nedeniyle daima %100'den küçüktür. Verimi %100 olan makine yapımı imkansızdır."
+  },
+  {
+    "id": "tyt-fizik-14-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Verim ve Enerji Kaynakları",
+    "type": "info",
+    "title": "Yenilenebilir ve Yenilenemez Enerji Kaynakları",
+    "body": "Yenilenemez enerji kaynakları fosil yakıtlar (kömür, petrol, doğalgaz) ve nükleer enerjidir; oluşumları milyonlarca yıl sürer ve yalnızca bir kez kullanılabilirler. Yenilenebilir kaynaklar ise rüzgar, güneş, jeotermal, hidroelektrik, biyokütle, gelgit, hidrojen ve dalga enerjisidir.",
+    "tip": "Fosil yakıtların çevreye olumsuz etkisi çok iken güneş, rüzgar ve jeotermal gibi yenilenebilir kaynaklar çevre dostudur."
+  },
+  {
+    "id": "tyt-fizik-15-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Isı ve Sıcaklık",
+    "type": "info",
+    "title": "Sıcaklık, Isı ve İç Enerji",
+    "body": "Sıcaklık, bir maddenin atom veya moleküllerinin ortalama kinetik enerjisinin ölçüsüdür; sıcaklık arttıkça parçacıklar daha hızlı hareket eder. Isı ise sıcaklık farkından kaynaklanan enerji transferidir (Q sembolü, birimi joule). İç enerji (U) bir sistemi oluşturan parçacıkların kinetik ve potansiyel enerjilerinin toplamıdır.",
+    "tip": "Isı, bir maddenin iç enerjisinin kendisi değil, transfer edilen enerjinin adıdır."
+  },
+  {
+    "id": "tyt-fizik-15-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Isı ve Sıcaklık",
+    "type": "quiz",
+    "question": "İki cisim arasında ısı transferi hangi yönde gerçekleşir?",
+    "options": [
+      "Yüksek sıcaklıktan düşük sıcaklığa doğru",
+      "Düşük sıcaklıktan yüksek sıcaklığa doğru",
+      "Kütlesi büyük olandan küçük olana doğru",
+      "Her zaman çift yönlü ve eşit miktarda"
+    ],
+    "answerIndex": 0,
+    "explanation": "Isı, sıcaklık farkından kaynaklanan enerji transferidir ve daima daha yüksek sıcaklıktan daha düşük sıcaklığa doğru gerçekleşir."
+  },
+  {
+    "id": "tyt-fizik-15-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Isı ve Sıcaklık",
+    "type": "cloze",
+    "text": "Celsius ölçeğinde 0 °C olan suyun donma noktası, Kelvin ölçeğinde ___ K değerine karşılık gelir.",
+    "answer": "273",
+    "options": [
+      "273",
+      "0",
+      "32",
+      "373"
+    ],
+    "explanation": "Suyun donma noktası Celsius'ta 0 °C, Kelvin'de 273 K'dir. Dönüşüm bağıntısı: K = C + 273 (referans tabloda 0 °C ↔ 273 K)."
+  },
+  {
+    "id": "tyt-fizik-16-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Isı Alış Verişi",
+    "type": "quiz",
+    "question": "Eşit kütledeki su ve demir bilyeye eşit miktarda ısı veriliyor. Suyun öz ısısı demirinkinden büyük olduğuna göre hangisinin sıcaklık artışı daha fazla olur?",
+    "options": [
+      "Demir bilyenin",
+      "Suyun",
+      "İkisi de eşit ısınır",
+      "Hiçbiri ısınmaz"
+    ],
+    "answerIndex": 0,
+    "explanation": "Öz ısısı küçük olan madde aynı ısıyla daha fazla sıcaklık değişimi gösterir. Demirin öz ısısı suya göre düşük olduğundan demirin sıcaklık artışı daha fazladır."
+  },
+  {
+    "id": "tyt-fizik-16-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Isı Alış Verişi",
+    "type": "info",
+    "title": "Öz Isı ve Isı Sığası Arasındaki Fark",
+    "body": "Öz ısı (c), bir maddenin 1 g kütlesinin sıcaklığını 1 °C değiştirmek için gereken ısıdır ve maddenin kütlesine bağlı değildir; bu yüzden ayırt edici bir özelliktir. Isı sığası (C = m·c) ise belirli bir miktar maddenin sıcaklığını değiştirmek için gereken ısıdır ve kütleye bağlı olduğundan ayırt edici değildir.",
+    "tip": "Verilen ısı: Q = m·c·ΔT bağıntısıyla hesaplanır."
+  },
+  {
+    "id": "tyt-fizik-17-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Hâl Değişimi ve Çeşitleri",
+    "type": "quiz",
+    "question": "Katı hâldeki bir maddenin sıvı hâle geçmeden doğrudan gaz hâline geçmesine ne ad verilir?",
+    "options": [
+      "Süblimleşme",
+      "Erime",
+      "Buharlaşma",
+      "Kırağılaşma"
+    ],
+    "answerIndex": 0,
+    "explanation": "Süblimleşme, katı bir maddenin doğrudan gaz hâline geçişidir (örn. kuru buz/CO₂). Gazdan doğrudan katıya geçiş ise kırağılaşmadır."
+  },
+  {
+    "id": "tyt-fizik-17-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Hâl Değişimi ve Çeşitleri",
+    "type": "truefalse",
+    "statement": "Saf bir madde hâl değişim sıcaklığında ısı almaya devam ederken, maddenin tamamı hâl değiştirene kadar sıcaklığı sabit kalır.",
+    "answer": true,
+    "explanation": "Hâl değişim sıcaklığında verilen ısı (Q = m·L) hâl değiştirmek için kullanılır; bu nedenle madde hâl değiştirirken sıcaklığı değişmez, sabit kalır."
+  },
+  {
+    "id": "tyt-fizik-18-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Isıl Denge",
+    "type": "cloze",
+    "text": "Isıca yalıtılmış bir ortamda sıcaklıkları farklı iki cisim ısıl dengeye ulaştığında, sıcak cismin verdiği ısı ile soğuk cismin aldığı ısı birbirine ___.",
+    "answer": "eşittir",
+    "explanation": "Isıl dengede enerji korunur: alınan ısı = verilen ısı (Q(alınan) = Q(verilen)). Sıcaklıklar eşitlendiğinde ısı alışverişi durur."
+  },
+  {
+    "id": "tyt-fizik-19-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Yayılma Yolları ve Enerji İletim Hızı",
+    "type": "quiz",
+    "question": "Isı enerjisinin yayılma yollarıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "İletim, taneciklerin birbirine yakın olduğu katılarda en etkilidir",
+      "Konveksiyon, katı maddelerin tanecikleri arasında gerçekleşir",
+      "Işıma yoluyla ısı transferi için mutlaka maddesel ortam gerekir",
+      "İletim ancak boşlukta (vakumda) gerçekleşebilir"
+    ],
+    "answerIndex": 0,
+    "explanation": "İletimde ısı, birbirine yakın tanecikler arasında aktarıldığından katılarda en etkilidir. Konveksiyon akışkanlarda (sıvı/gaz) olur; ışıma ise maddesel ortam gerektirmeyen tek yoldur."
+  },
+  {
+    "id": "tyt-fizik-19-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Yayılma Yolları ve Enerji İletim Hızı",
+    "type": "flashcard",
+    "front": "Isı transfer yollarından hangisi maddesel ortam (temas) gerektirmeden boşlukta da gerçekleşebilir?",
+    "back": "Işıma (radyasyon). Enerji ışık dalgaları şeklinde yayıldığı için ortam gerektirmez; bu yüzden Güneş'in ısısı uzayın boşluğunu aşıp Dünya'ya ulaşır. İletim ve konveksiyon ise maddesel ortam ister."
+  },
+  {
+    "id": "tyt-fizik-19-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Yayılma Yolları ve Enerji İletim Hızı",
+    "type": "quiz",
+    "question": "Bir duvardan birim zamanda iletilen ısı miktarını artırmak için aşağıdaki değişikliklerden hangisi tek başına yapılmalıdır?",
+    "options": [
+      "Duvarın iki yüzü arasındaki sıcaklık farkını azaltmak",
+      "Duvarı daha kalın yapmak",
+      "Duvarın iki yüzü arasındaki sıcaklık farkını artırmak",
+      "Daha düşük ısı iletim katsayısına sahip malzeme kullanmak"
+    ],
+    "answerIndex": 2,
+    "explanation": "Isı iletim hızı sıcaklık farkıyla doğru orantılıdır; fark arttıkça iletilen ısı artar. Kalınlık artışı ve düşük iletim katsayısı ise iletim hızını azaltır."
+  },
+  {
+    "id": "tyt-fizik-19-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Enerji Yayılma Yolları ve Enerji İletim Hızı",
+    "type": "info",
+    "title": "Hava boşlukları neden yalıtım sağlar?",
+    "body": "Isı iletim hızı, malzemenin ısı iletim katsayısıyla doğru orantılıdır. Tuğlaların boşluklu yapısındaki hava, çok düşük ısı iletim katsayısına sahip olduğundan duvardan geçen ısı akışını yavaşlatır. Böylece binanın ısı yalıtımı artar ve enerji tasarrufu sağlanır.",
+    "tip": "Aynı mantıkla çift cam (ısıcam) arasındaki hava/gaz tabakası da pencerelerden ısı kaybını azaltır."
+  },
+  {
+    "id": "tyt-fizik-20-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Genleşme",
+    "type": "quiz",
+    "question": "Kalınlığı ihmal edilebilen, aynı ilk boya sahip iki metal tel aynı miktarda ısıtıldığında X teli Y telinden daha fazla uzamaktadır. Buna göre kesin olarak söylenebilecek olan nedir?",
+    "options": [
+      "X telinin sıcaklık değişimi daha büyüktür",
+      "X telinin genleşme katsayısı Y'ninkinden büyüktür",
+      "Y telinin ilk boyu daha uzundur",
+      "İki telin genleşme katsayıları eşittir"
+    ],
+    "answerIndex": 1,
+    "explanation": "İlk boy ve sıcaklık değişimi aynı olduğundan boyca uzama farkının tek nedeni genleşme katsayısıdır. Daha çok uzayan X telinin genleşme katsayısı daha büyüktür."
+  },
+  {
+    "id": "tyt-fizik-20-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Genleşme",
+    "type": "truefalse",
+    "statement": "Su, 4 °C'den 0 °C'ye soğutulurken diğer maddelerin aksine genleşir ve özkütlesi azalır.",
+    "answer": true,
+    "explanation": "Suyun anormal genleşmesi nedeniyle 4 °C'de en yoğun (özkütlesi en büyük) haldedir. 4 °C'den 0 °C'ye soğutulurken hacmi artar, dolayısıyla özkütlesi azalır; bu yüzden buz suyun üstünde yüzer."
+  },
+  {
+    "id": "tyt-fizik-21-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Yüklerinin Özellikleri ve Elektrikle Yüklenme Çeşitleri",
+    "type": "info",
+    "title": "Sürtünme ile elektriklenmede yük korunur",
+    "body": "Nötr iki cisim birbirine sürtüldüğünde elektron alışverişi olur: elektron veren cisim pozitif, elektron alan cisim negatif yüklenir. Aktarılan elektron sayısı her iki cisimde de aynı olduğu için cisimler eşit büyüklükte ve zıt işaretli yüklerle yüklenir; sistemin toplam yükü değişmez.",
+    "tip": "Tüm elektriklenme olaylarında hareket eden yükler elektronlardır; pozitif protonlar yer değiştirmez."
+  },
+  {
+    "id": "tyt-fizik-21-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Yüklerinin Özellikleri ve Elektrikle Yüklenme Çeşitleri",
+    "type": "quiz",
+    "question": "Yükleri +8q ve -2q olan özdeş iki iletken küre birbirine dokundurulup ayrılıyor. Her bir kürenin son yükü ne olur?",
+    "options": [
+      "+6q",
+      "+5q",
+      "+3q",
+      "-3q"
+    ],
+    "answerIndex": 2,
+    "explanation": "Özdeş küreler net yükü eşit paylaşır. Toplam yük (+8q) + (-2q) = +6q olup ikiye bölündüğünde her küre +3q yükle yüklenir."
+  },
+  {
+    "id": "tyt-fizik-21-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Yüklerinin Özellikleri ve Elektrikle Yüklenme Çeşitleri",
+    "type": "truefalse",
+    "statement": "Etki ile elektriklenmede yüklü cisim nötr cisme dokunmadığı için nötr cismin toplam (net) yükü sıfır kalır.",
+    "answer": true,
+    "explanation": "Etki ile elektriklenmede temas ve dolayısıyla yük alışverişi olmaz; sadece nötr cisim içinde yükler yer değiştirir (kutuplanma). Bir uçta toplanan yük diğer uçtaki zıt yüke eşit olduğundan net yük sıfırdır."
+  },
+  {
+    "id": "tyt-fizik-21-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Yüklerinin Özellikleri ve Elektrikle Yüklenme Çeşitleri",
+    "type": "cloze",
+    "text": "Bir elektroskop yüklendiğinde, taşıdığı yük miktarı arttıkça yaprakları arasındaki açı ___.",
+    "answer": "artar",
+    "options": [
+      "artar",
+      "azalır",
+      "değişmez"
+    ],
+    "explanation": "Elektroskop nötrken yapraklar kapalıdır; yük miktarı arttıkça aynı cins yüklü yaprakların itme kuvveti büyür ve aralarındaki açı artar."
+  },
+  {
+    "id": "tyt-fizik-22-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "İletken ve Yalıtkanlarda Yük Dağılımı",
+    "type": "quiz",
+    "question": "Elektrikle yüklenmiş bir iletken cisimdeki yüklerin dağılımıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Yükler cismin iç hacmine homojen dağılır",
+      "Yükler dış yüzeyde toplanır ve sivri uçlarda daha çok birikir",
+      "Yükler cismin ağırlık merkezinde toplanır",
+      "Yükler yalnızca cismin tabanında birikir"
+    ],
+    "answerIndex": 1,
+    "explanation": "İletkende yükler serbestçe hareket edip birbirini ittiğinden gidebildikleri en uzak yere, yani dış yüzeye dağılır. Yüzey simetrik değilse sivri uçlarda yük yoğunluğu daha fazla olur (sivri uç etkisi)."
+  },
+  {
+    "id": "tyt-fizik-22-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "İletken ve Yalıtkanlarda Yük Dağılımı",
+    "type": "info",
+    "title": "Faraday kafesi ve topraklama",
+    "body": "Faraday kafesi, metal bir kabuğun içindeki bölgeyi dış elektrik alanından korur: dış alan iletkende yükleri ayrıştırır ve oluşan iç alan dış alanı tam olarak nötrler, böylece kafesin içindeki elektrik alanı sıfır olur. Topraklama ise yüklü bir cismi sonsuz yük kapasiteli toprağa bağlayarak nötrleştirir.",
+    "tip": "Arabaların metal kaportası ve uçakların gövdesi Faraday kafesi gibi davranarak içindekileri yıldırımdan korur."
+  },
+  {
+    "id": "tyt-fizik-23-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektriksel Kuvvet ve Elektrik Alan",
+    "type": "quiz",
+    "question": "İki noktasal yük arasındaki uzaklık değiştirilmeden sabit tutulup yüklerden her biri 2 katına çıkarılırsa, aralarındaki elektriksel kuvvet kaç katına çıkar?",
+    "options": [
+      "2 katına",
+      "3 katına",
+      "4 katına",
+      "8 katına"
+    ],
+    "answerIndex": 2,
+    "explanation": "Coulomb yasasında kuvvet yüklerin çarpımıyla (q1·q2) doğru orantılıdır. Her iki yük 2 katına çıkınca çarpım 2·2 = 4 katına çıkar; mesafe sabit olduğundan kuvvet de 4 katına çıkar."
+  },
+  {
+    "id": "tyt-fizik-23-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektriksel Kuvvet ve Elektrik Alan",
+    "type": "flashcard",
+    "front": "Elektrik alan çizgilerinin yönü ve kesişme özelliği nasıldır?",
+    "back": "Çizgiler pozitif yükten çıkar, negatif yüke girer ve iletken yüzeye diktir. Bir noktada alanın tek bir yönü olduğu için çizgiler yüklerin dışında hiçbir yerde birbirini kesmez."
+  },
+  {
+    "id": "tyt-fizik-24-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Akımı ve Direnç",
+    "type": "quiz",
+    "question": "Katı bir iletkende elektrik akımının yönü ile elektronların hareket yönü arasındaki ilişki nasıldır?",
+    "options": [
+      "İkisi de aynı yöndedir",
+      "Akım, elektronların hareketine ters yöndedir",
+      "Elektronlar hareket etmez, sadece protonlar hareket eder",
+      "Akım yönü rastgele değişir"
+    ],
+    "answerIndex": 1,
+    "explanation": "Akımın artı (+) kutuptan eksi (-) kutba doğru aktığı kabul edilir; gerçekte hareket eden serbest elektronlar ise eksi kutuptan artı kutba, yani akıma ters yönde hareket eder."
+  },
+  {
+    "id": "tyt-fizik-24-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Akımı ve Direnç",
+    "type": "cloze",
+    "text": "Akım şiddeti, iletkenin kesitinden birim zamanda geçen ___ miktarını ifade eder ve birimi amperdir.",
+    "answer": "yük",
+    "explanation": "I = q/t bağıntısına göre akım şiddeti, t sürede kesitten geçen net yük miktarının zamana oranıdır. 1 saniyede 1 coulomb yük geçtiğinde 1 amperlik akım oluşur."
+  },
+  {
+    "id": "tyt-fizik-24-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Akımı ve Direnç",
+    "type": "quiz",
+    "question": "Aynı malzemeden yapılmış bir telin uzunluğu 2 katına çıkarılıp kesit alanı da 2 katına çıkarılırsa direnci nasıl değişir?",
+    "options": [
+      "4 katına çıkar",
+      "2 katına çıkar",
+      "Değişmez",
+      "Yarıya iner"
+    ],
+    "answerIndex": 2,
+    "explanation": "R = ρ·L/A bağıntısına göre direnç uzunlukla doğru, kesitle ters orantılıdır. L 2 katına (R 2 kat), A 2 katına (R 1/2 kat) çıkınca etkiler birbirini götürür ve direnç değişmez."
+  },
+  {
+    "id": "tyt-fizik-24-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Akımı ve Direnç",
+    "type": "flashcard",
+    "front": "Öz direnç (ρ) nedir ve iletkenlikle ilişkisi nasıldır?",
+    "back": "Öz direnç, bir maddenin elektrik akımına karşı gösterdiği dirence ait, maddenin cinsine bağlı bir özelliktir. Öz direnci küçük olan maddeler (gümüş, bakır gibi metaller) iyi iletken; öz direnci büyük olan maddeler (cam, plastik) kötü iletken/yalıtkandır."
+  },
+  {
+    "id": "tyt-fizik-25-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Ohm Yasası ve Dirençlerin Bağlanması",
+    "type": "cloze",
+    "text": "Ohm Yasası'na göre, sabit dirençli bir iletkenin uçları arasındaki potansiyel fark artırılırsa üzerinden geçen akım ___.",
+    "answer": "artar",
+    "options": [
+      "artar",
+      "azalır",
+      "değişmez"
+    ],
+    "explanation": "V = I·R bağıntısında direnç sabitken gerilim ile akım doğru orantılıdır; gerilim artarsa akım da artar."
+  },
+  {
+    "id": "tyt-fizik-25-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Ohm Yasası ve Dirençlerin Bağlanması",
+    "type": "quiz",
+    "question": "2 Ω, 3 Ω ve 5 Ω'luk üç direnç seri bağlanırsa eşdeğer dirençleri kaç ohm olur?",
+    "options": [
+      "10 Ω",
+      "0,97 Ω",
+      "5 Ω",
+      "30 Ω"
+    ],
+    "answerIndex": 0,
+    "explanation": "Seri bağlı dirençlerde eşdeğer direnç, dirençlerin toplamına eşittir: 2 + 3 + 5 = 10 Ω."
+  },
+  {
+    "id": "tyt-fizik-25-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Ohm Yasası ve Dirençlerin Bağlanması",
+    "type": "quiz",
+    "question": "Her biri 6 Ω olan iki direnç paralel bağlanırsa eşdeğer dirençleri kaç ohm olur?",
+    "options": [
+      "12 Ω",
+      "6 Ω",
+      "3 Ω",
+      "1,5 Ω"
+    ],
+    "answerIndex": 2,
+    "explanation": "Paralel bağlamada 1/Reş = 1/6 + 1/6 = 2/6 = 1/3 olduğundan Reş = 3 Ω. Eşit iki direncin paralel eşdeğeri, tek bir direncin yarısıdır."
+  },
+  {
+    "id": "tyt-fizik-25-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Ohm Yasası ve Dirençlerin Bağlanması",
+    "type": "truefalse",
+    "statement": "Voltmetre devre elemanına paralel, ampermetre ise seri bağlanır.",
+    "answer": true,
+    "explanation": "Voltmetre yüksek iç dirençlidir ve iki nokta arası potansiyel farkı ölçmek için paralel bağlanır. Ampermetre ise iç direnci çok küçüktür ve devreden geçen akımı ölçmek için seri bağlanır."
+  },
+  {
+    "id": "tyt-fizik-26-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Üreteçler",
+    "type": "quiz",
+    "question": "Aynı yönde akım üreten 1,5 V'luk üç özdeş pil seri bağlandığında devreye sağlanan toplam gerilim kaç V olur?",
+    "options": [
+      "1,5 V",
+      "0,5 V",
+      "3 V",
+      "4,5 V"
+    ],
+    "answerIndex": 3,
+    "explanation": "Aynı yönde seri bağlı üreteçlerin emk değerleri toplanır: 1,5 + 1,5 + 1,5 = 4,5 V. Bu yüzden seri bağlantı daha yüksek voltaj gerektiren uygulamalarda kullanılır."
+  },
+  {
+    "id": "tyt-fizik-26-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Üreteçler",
+    "type": "truefalse",
+    "statement": "İç direnci önemsiz özdeş pillerin paralel bağlanması, devrenin gerilimini ve ana kol akımını değiştirmezken pillerin daha uzun süre dayanmasını sağlar.",
+    "answer": true,
+    "explanation": "Paralel bağlamada gerilim tek pilin emk'sine eşit kalır, ana kol akımı değişmez; ancak bu akım piller arasında paylaşıldığından her pilden çekilen akım azalır. Çekilen akım azaldıkça oksidasyon yavaşlar ve piller daha geç tükenir."
+  },
+  {
+    "id": "tyt-fizik-27-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Enerjisi, Elektriksel Güç ve Lamba Parlaklıkları",
+    "type": "flashcard",
+    "front": "Elektriksel gücü (P) veren üç eşdeğer bağıntı nedir?",
+    "back": "P = V·I, P = I²·R ve P = V²/R. Bunlar Ohm Yasası (V = I·R) yardımıyla birbirinden türetilir. Güç, devre elemanı tarafından birim zamanda harcanan enerjiyi verir ve birimi watt'tır (W)."
+  },
+  {
+    "id": "tyt-fizik-27-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Enerjisi, Elektriksel Güç ve Lamba Parlaklıkları",
+    "type": "quiz",
+    "question": "Gücü 1,5 kW olan bir klima günde 4 saat çalıştırılırsa bir günde tükettiği enerji kaç kWh olur?",
+    "options": [
+      "4,5 kWh",
+      "6 kWh",
+      "5,5 kWh",
+      "0,375 kWh"
+    ],
+    "answerIndex": 1,
+    "explanation": "Tüketilen enerji E = P·t bağıntısıyla bulunur. Güç kW, zaman saat cinsindense enerji kWh çıkar: 1,5 kW × 4 saat = 6 kWh."
+  },
+  {
+    "id": "tyt-fizik-27-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Elektrik Enerjisi, Elektriksel Güç ve Lamba Parlaklıkları",
+    "type": "truefalse",
+    "statement": "Özdeş lambalardan oluşan bir devrede, üzerinden daha fazla akım geçen lamba diğerlerinden daha parlak yanar.",
+    "answer": true,
+    "explanation": "Parlaklık güçle doğru orantılıdır. Özdeş lambalarda dirençler eşit olduğundan P = I²·R bağıntısında parlaklık akımın karesine bağlıdır; bu nedenle üzerinden daha çok akım geçen lamba daha parlak yanar."
+  },
+  {
+    "id": "tyt-fizik-28-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Mıknatıs ve Manyetik Alan",
+    "type": "quiz",
+    "question": "Bir çubuk mıknatısın manyetik alan çizgilerinin yönü hakkında aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      "Mıknatıs dışında N kutbundan S kutbuna doğrudur",
+      "Mıknatıs dışında S kutbundan N kutbuna doğrudur",
+      "Çizgiler N kutbunda başlayıp havada son bulur",
+      "Çizgiler birbirini keserek ağ oluşturur"
+    ],
+    "answerIndex": 0,
+    "explanation": "Manyetik alan çizgileri kapalı eğrilerdir: mıknatısın dışında N kutbundan S kutbuna, içinde ise S'den N'ye doğru yönelir. Çizgiler birbirini kesmez."
+  },
+  {
+    "id": "tyt-fizik-28-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Mıknatıs ve Manyetik Alan",
+    "type": "cloze",
+    "text": "İki mıknatıs etkileştiğinde aynı cins kutuplar birbirini iterken, ___ cins kutuplar birbirini çeker.",
+    "answer": "zıt",
+    "options": [
+      "zıt",
+      "aynı",
+      "nötr"
+    ],
+    "explanation": "Mıknatıs kutupları arasında temas gerektirmeyen kuvvet oluşur: N-N veya S-S gibi aynı cins kutuplar iter, N-S gibi zıt cins kutuplar çeker."
+  },
+  {
+    "id": "tyt-fizik-29-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Akım ve Manyetik Alan",
+    "type": "quiz",
+    "question": "Üzerinden akım geçen düz bir telin çevresinde oluşan manyetik alanın şiddeti, akım sabit tutulduğunda tele olan dik uzaklık 2 katına çıkarılırsa nasıl değişir?",
+    "options": [
+      "2 katına çıkar",
+      "Yarıya iner",
+      "Değişmez",
+      "4 katına çıkar"
+    ],
+    "answerIndex": 1,
+    "explanation": "Düz telin çevresindeki manyetik alan şiddeti, tele olan dik uzaklıkla ters orantılıdır. Uzaklık 2 katına çıkınca alan şiddeti yarıya iner."
+  },
+  {
+    "id": "tyt-fizik-29-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Akım ve Manyetik Alan",
+    "type": "info",
+    "title": "Elektromıknatısın alan şiddeti neye bağlıdır?",
+    "body": "Demir çekirdeğe sarılan iletken telden (bobinden) akım geçtiğinde bobin mıknatıs gibi davranır. Silindir içinde oluşan düzgün manyetik alanın şiddeti üç değişkene bağlıdır: sarım sayısı, bobinden geçen akımın şiddeti ve sarımların boyu (L).",
+    "tip": "Elektromıknatıslar; vinçlerde, kapı zillerinde, elektrik motorlarında, hoparlörlerde ve Maglev trenlerinde kullanılır."
+  },
+  {
+    "id": "tyt-fizik-30-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Basınç Kavramı, Katılarda Basınç ve Basınç Kuvveti",
+    "type": "quiz",
+    "question": "Ağırlığı değişmeyen bir kişi, iki ayağı üzerinde dururken tek ayağı üzerinde durmaya geçiyor. Bu kişinin yere uyguladığı basınç kuvveti ve basınç nasıl değişir?",
+    "options": [
+      "Basınç kuvveti değişmez, basınç artar",
+      "Basınç kuvveti artar, basınç değişmez",
+      "Hem basınç kuvveti hem basınç artar",
+      "Basınç kuvveti azalır, basınç artar",
+      "Hem basınç kuvveti hem basınç azalır"
+    ],
+    "answerIndex": 0,
+    "explanation": "Katı cismin yere uyguladığı basınç kuvveti ağırlığına eşittir; ağırlık değişmediği için basınç kuvveti de değişmez. Ancak basınç, kuvvetin yayıldığı yüzey alanıyla ters orantılıdır. Temas yüzeyi yarıya inince basınç artar."
+  },
+  {
+    "id": "tyt-fizik-30-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Basınç Kavramı, Katılarda Basınç ve Basınç Kuvveti",
+    "type": "truefalse",
+    "statement": "Geniş tabanlı kar ayakkabısı giyen biri, aynı ağırlıktaki normal ayakkabı giyen birine göre kara daha az batar.",
+    "answer": true,
+    "explanation": "Ağırlıkları eşit olduğundan zemine uyguladıkları basınç kuvveti aynıdır. Ancak geniş tabanlı ayakkabı temas yüzeyini büyüttüğü için zemine uygulanan basınç azalır; basınç küçüldükçe batma miktarı da azalır."
+  },
+  {
+    "id": "tyt-fizik-31-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Durgun Sıvılarda Basınç ve Basınç Kuvveti, Pascal Prensibi",
+    "type": "quiz",
+    "question": "Farklı şekillerde ancak içlerinde aynı cins sıvı eşit yükseklikte bulunan kaplarda, sıvının kap tabanına uyguladığı basınçlar için ne söylenebilir?",
+    "options": [
+      "Tabanları eşit alanlıysa basınçlar eşittir, çünkü basınç sadece derinliğe ve sıvının cinsine bağlıdır",
+      "Daha geniş kapta basınç daha büyüktür",
+      "İçinde daha fazla sıvı bulunan kapta basınç daha büyüktür",
+      "Kabın şekli daraldıkça taban basıncı artar",
+      "Basınçlar her durumda farklıdır"
+    ],
+    "answerIndex": 0,
+    "explanation": "Durgun sıvı basıncı P = h·d·g ile bulunur; yalnızca derinliğe (h), sıvının özkütlesine (d) ve g'ye bağlıdır. Kabın şekline, biçimine ve sıvı miktarına bağlı değildir. Eşit yükseklik ve aynı sıvı için tabandaki basınç eşittir."
+  },
+  {
+    "id": "tyt-fizik-31-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Durgun Sıvılarda Basınç ve Basınç Kuvveti, Pascal Prensibi",
+    "type": "info",
+    "title": "Pascal Prensibi ve Su Cenderesi",
+    "body": "Sıvılar, üzerlerine uygulanan basıncı bulundukları kabın tüm noktalarına büyüklüğünü değiştirmeden dik olarak iletir. Bu ilkeye Pascal Prensibi denir. Kesitleri farklı iki kollu, içi sıvı dolu su cendereleri bu prensiple çalışır: küçük pistona uygulanan basınç sıvı yoluyla büyük pistona aynen iletildiğinden, küçük kuvvetlerle büyük ağırlıklar kaldırılabilir.",
+    "tip": "Araç kaldırma vinçleri ve hidrolik fren sistemleri Pascal Prensibine göre çalışır."
+  },
+  {
+    "id": "tyt-fizik-31-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Durgun Sıvılarda Basınç ve Basınç Kuvveti, Pascal Prensibi",
+    "type": "info",
+    "title": "Sıvının Taban Basınç Kuvveti ile Ağırlığı Her Zaman Eşit Değildir",
+    "body": "Kesiti düzgün (kenarları dik) kaplarda sıvının kabın tabanına uyguladığı basınç kuvveti, sıvının ağırlığına eşittir. Tabandan yukarı daralan kaplarda taban basınç kuvveti sıvının ağırlığından büyük, tabandan yukarı genişleyen kaplarda ise sıvının ağırlığından küçük olur.",
+    "tip": "Basınç kuvveti F = h·d·g·S ile hesaplanır; h yüzeyin geometrik orta noktasının sıvı yüzeyine uzaklığıdır."
+  },
+  {
+    "id": "tyt-fizik-32-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Gaz Basıncı, Atmosfer Basıncı ve Basınç Ölçen Aletler",
+    "type": "cloze",
+    "text": "Deniz seviyesinde ve 0 °C'de yapılan Torriçelli deneyinde cıva sütunu ___ cm yüksekliğinde dengede kalır; bu değer 1 atmosfer basıncına eşittir.",
+    "answer": "76",
+    "options": [
+      "76",
+      "100",
+      "650",
+      "343"
+    ],
+    "explanation": "Torriçelli deneyinde açık hava basıncı, kaptaki cıvaya etki ederek tüpteki cıvayı 76 cm (760 mm-Hg) yüksekliğinde dengede tutar. Bu basınca 1 atm denir."
+  },
+  {
+    "id": "tyt-fizik-32-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Gaz Basıncı, Atmosfer Basıncı ve Basınç Ölçen Aletler",
+    "type": "quiz",
+    "question": "Kapalı bir kaptaki ideal gazın basıncı aşağıdakilerden hangisiyle TERS orantılıdır?",
+    "options": [
+      "Gazın hacmi",
+      "Gazın sıcaklığı (Kelvin)",
+      "Gaz molekül sayısı",
+      "Kabın çeperlerine çarpan molekül sayısı",
+      "Moleküllerin hızı"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sıcaklık ve molekül sayısı sabitken gaz daha büyük hacme aktarılırsa birim yüzeye birim zamanda çarpan molekül sayısı azalır ve basınç düşer. Yani basınç hacimle ters orantılıdır; sıcaklık ve molekül sayısıyla ise doğru orantılıdır."
+  },
+  {
+    "id": "tyt-fizik-32-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Gaz Basıncı, Atmosfer Basıncı ve Basınç Ölçen Aletler",
+    "type": "quiz",
+    "question": "Açık uçlu bir manometrede kaptaki gaz, açık hava tarafından kapatılan koldaki cıva seviyesini 5 cm daha yukarıda tutmaktadır. Açık hava basıncı 70 cm-Hg ise gazın basıncı kaç cm-Hg'dir?",
+    "options": [
+      "75",
+      "65",
+      "70",
+      "5",
+      "350"
+    ],
+    "answerIndex": 0,
+    "explanation": "Açık uçlu manometrede gaz basıncı, açık hava basıncını ve aradaki cıva sütununun yaptığı basıncı dengeler: P(gaz) = P0 + 5 = 70 + 5 = 75 cm-Hg. Gazın basıncı, açık hava basıncından yüksek seviye farkı kadar fazladır."
+  },
+  {
+    "id": "tyt-fizik-32-004",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Gaz Basıncı, Atmosfer Basıncı ve Basınç Ölçen Aletler",
+    "type": "truefalse",
+    "statement": "Bir düdüklü tencerede su, deniz seviyesindeki açık ortamda olduğundan daha yüksek sıcaklıkta kaynar.",
+    "answer": true,
+    "explanation": "Düdüklü tencerede oluşan buhar, sıvı üzerindeki basıncı artırır. Basınç arttıkça suyun kaynama sıcaklığı yükselir; su 120-150 °C gibi sıcaklıklara çıkarak kaynar. Yüksekte (düşük basınçta) ise tersine su daha düşük sıcaklıkta kaynar."
+  },
+  {
+    "id": "tyt-fizik-33-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Akışkan Basıncı (Bernoulli İlkesi)",
+    "type": "quiz",
+    "question": "Fırtınalı havada bir evin çatısının yerinden kalkıp uçması Bernoulli İlkesi ile nasıl açıklanır?",
+    "options": [
+      "Çatı üzerinden geçen havanın sürati arttığı için üstteki basınç azalır; içerideki büyük basınç çatıyı yukarı iter",
+      "Rüzgâr çatıya çarparak onu yukarı doğru iter",
+      "Soğuk hava çatıyı genleştirerek kaldırır",
+      "Çatı altındaki havanın sürati arttığı için alttaki basınç artar",
+      "Yağmur çatının ağırlığını azaltır"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bernoulli İlkesine göre akışkanın süratinin arttığı yerde basıncı düşer. Çatı üzerinden hızla geçen havanın basıncı azalırken çatı altındaki durgun havanın basıncı daha büyük kalır. Bu basınç farkı çatıyı yukarı doğru iterek uçmasına yol açar."
+  },
+  {
+    "id": "tyt-fizik-34-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Kaldırma Kuvveti",
+    "type": "cloze",
+    "text": "Bir sıvıya batırılan cisme etki eden kaldırma kuvveti, cismin sıvı içindeki hacmi, sıvının özkütlesi ve yer çekimi ivmesi ile bulunur: F = ___ · d · g.",
+    "answer": "V",
+    "explanation": "Kaldırma kuvveti F = V·d·g bağıntısıyla hesaplanır; burada V cismin sıvı içindeki hacmi, d sıvının özkütlesi, g yer çekimi ivmesidir. Kaldırma kuvveti bu üç büyüklükle doğru orantılıdır."
+  },
+  {
+    "id": "tyt-fizik-34-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Kaldırma Kuvveti",
+    "type": "flashcard",
+    "front": "Arşimet Prensibi nedir?",
+    "back": "Bir sıvıya bırakılan cisme etki eden kaldırma kuvveti, cismin yerini değiştirdiği (taşırdığı) sıvının ağırlığına eşittir. Cisim ister yüzsün ister batsın, sıvı içindeki hacmi kadar sıvıyı taşırır."
+  },
+  {
+    "id": "tyt-fizik-34-003",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Kaldırma Kuvveti",
+    "type": "quiz",
+    "question": "Bir sıvıya bırakılan A cismi yüzerek, B cismi askıda, C cismi ise tabana batarak dengede kalmaktadır. Bu cisimlerin özkütleleri için ne söylenebilir? (d: sıvının özkütlesi)",
+    "options": [
+      "d(A) < d, d(B) = d, d(C) > d",
+      "d(A) > d, d(B) = d, d(C) < d",
+      "Üçünün de özkütlesi sıvınınkine eşittir",
+      "d(A) = d(B) = d(C) > d",
+      "d(A) > d(B) > d(C)"
+    ],
+    "answerIndex": 0,
+    "explanation": "Özkütlesi sıvıdan küçük cisim yükselip yüzer (A), eşit olan askıda kalır (B), büyük olan tabana batar (C). Yüzen ve askıda kalan cisimde kaldırma kuvveti ağırlığa eşitken, batan cisimde kaldırma kuvveti ağırlıktan küçüktür."
+  },
+  {
+    "id": "tyt-fizik-35-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Dalgalarda Temel Kavramlar ve Özellikleri",
+    "type": "cloze",
+    "text": "Dalga hızı, dalga boyu ile frekansın çarpımına eşittir: v = λ · ___.",
+    "answer": "f",
+    "options": [
+      "f",
+      "T",
+      "A",
+      "g"
+    ],
+    "explanation": "Dalga bir periyotta (T) bir dalga boyu (λ) ilerler: λ = v·T. T·f = 1 olduğundan v = λ·f elde edilir. Burada f frekanstır."
+  },
+  {
+    "id": "tyt-fizik-35-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Dalgalarda Temel Kavramlar ve Özellikleri",
+    "type": "info",
+    "title": "Dalga Hızını Ne Belirler?",
+    "body": "Bir dalganın yayılma hızını yalnızca yayıldığı ortamın özellikleri (esneklik ve yoğunluk) belirler. Dalga kaynağının frekansı, periyodu ya da genliği yayılma hızını etkilemez. Ortam değişmedikçe hız sabit kalır.",
+    "tip": "Kaynağın frekansı değişince hız değil, dalga boyu değişir (v = λ·f)."
+  },
+  {
+    "id": "tyt-fizik-36-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Yay Dalgalarının Hızı ve Yansıması",
+    "type": "quiz",
+    "question": "Bir yayda ilerleyen tepe (baş yukarı) atması, sabit uçlu engelden yansıdığında atmanın görünümü nasıl olur?",
+    "options": [
+      "Çukur (baş aşağı) olur; hızı, genliği ve genişliği değişmez",
+      "Yine tepe kalır; hızı, genliği ve genişliği değişmez",
+      "Çukur olur ve genliği yarıya iner",
+      "Tepe kalır ama hızı artar",
+      "Tamamen yok olur"
+    ],
+    "answerIndex": 0,
+    "explanation": "Sabit uçtan yansıyan atma ters döner: tepe atması çukur olur. Aynı yayda kaldığı için hızının büyüklüğü, genliği ve genişliği değişmez. (Serbest uçta ise atma ters dönmeden yansır.)"
+  },
+  {
+    "id": "tyt-fizik-37-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Yay Dalgalarının Farklı Ortamlara Geçişi ve Yay Dalgalarının Girişimi",
+    "type": "quiz",
+    "question": "İnce (hafif) yaydan kalın (ağır) yaya geçen bir atma için iletilen atmanın hızı ve genişliği gelen atmaya göre nasıl değişir?",
+    "options": [
+      "Hızı azalır, genişliği azalır",
+      "Hızı artar, genişliği artar",
+      "Hızı değişmez, genişliği azalır",
+      "Hızı azalır, genişliği artar",
+      "Hızı artar, genişliği değişmez"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ağır yayda dalga hızı küçüktür. İnce yaydan kalın yaya geçen iletilen atmanın hızı azalır. Frekans kaynağa bağlı olup değişmediğinden, hız azalınca dalga boyu (genişlik) de azalır. Yansıyan atma ise aynı yayda kaldığı için hızı ve genişliği değişmez."
+  },
+  {
+    "id": "tyt-fizik-38-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Su Dalgalarının Özellikleri ve Yansıması",
+    "type": "truefalse",
+    "statement": "Sabit derinlikli bir ortamda su dalgaları bir engelden yansırken dalganın hızı ve dalga boyu değişmez.",
+    "answer": true,
+    "explanation": "Su dalgalarının hızı yalnızca derinliğe bağlıdır. Yansıma olayında derinlik ve kaynağın frekansı değişmediğinden dalganın hızı, dalga boyu ve periyodu da değişmez; sadece ilerleme doğrultusu değişir."
+  },
+  {
+    "id": "tyt-fizik-39-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Su Dalgalarının Hızı ve Kırılması",
+    "type": "quiz",
+    "question": "Su dalgaları sığ ortamdan derin ortama geçtiğinde hız, dalga boyu ve frekansta nasıl bir değişim olur?",
+    "options": [
+      "Hız ve dalga boyu artar, frekans değişmez",
+      "Hız ve dalga boyu azalır, frekans değişmez",
+      "Üçü de artar",
+      "Hız artar, frekans azalır, dalga boyu değişmez",
+      "Hız değişmez, dalga boyu artar"
+    ],
+    "answerIndex": 0,
+    "explanation": "Derin ortamda su dalgalarının hızı daha büyüktür. Sığdan derine geçince hız ve dalga boyu artar. Frekans yalnızca kaynağa bağlı olduğundan değişmez."
+  },
+  {
+    "id": "tyt-fizik-40-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Ses Dalgaları",
+    "type": "truefalse",
+    "statement": "Ses dalgaları boşlukta (vakumda) yayılamaz.",
+    "answer": true,
+    "explanation": "Ses bir mekanik dalgadır ve yayılmak için maddesel ortama ihtiyaç duyar. Cam fanustaki hava boşaltıldığında içerideki çalar saatin sesi duyulmaz olur; bu, sesin boşlukta yayılamadığını gösterir."
+  },
+  {
+    "id": "tyt-fizik-40-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Ses Dalgaları",
+    "type": "flashcard",
+    "front": "Sesin yüksekliği (frekans), şiddeti ve tınısı sırasıyla neyle belirlenir?",
+    "back": "Yükseklik (ince/kalın oluş) sesin frekansıyla belirlenir; yüksek frekans tiz, düşük frekans pes sestir. Şiddet, sesin enerjisi yani genliği ile ilgilidir. Tını ise ses kaynağının kimliğini gösterir; aynı notayı çalan keman ile piyano tınılarıyla ayırt edilir."
+  },
+  {
+    "id": "tyt-fizik-41-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Deprem Dalgaları",
+    "type": "info",
+    "title": "Depremin Büyüklüğü ve Şiddeti Aynı Şey Değildir",
+    "body": "Depremin büyüklüğü, kırılan yüzeyin boyutunu ve açığa çıkan enerjiyi belirten bir ölçüdür; sismografla ölçülür ve Richter ölçeğinde ifade edilir. Depremin şiddeti ise depremin doğa, bina ve insanlar üzerindeki etkisinin ölçüsüdür; depremin büyüklüğüne, uzaklığa ve yapıların dayanıklılığına bağlıdır.",
+    "tip": "Aynı büyüklükteki bir deprem, farklı bölgelerde farklı şiddette hasara yol açabilir."
+  },
+  {
+    "id": "tyt-fizik-42-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Işık, Işık Şiddeti, Işık Akısı ve Aydınlanma Şiddeti",
+    "type": "quiz",
+    "question": "Noktasal bir ışık kaynağından d uzaklıktaki bir yüzeyin aydınlanma şiddeti E ise, yüzey 2d uzaklığa götürülürse aydınlanma şiddeti ne olur?",
+    "options": [
+      "E/4",
+      "E/2",
+      "2E",
+      "4E",
+      "Değişmez"
+    ],
+    "answerIndex": 0,
+    "explanation": "Noktasal kaynak için aydınlanma şiddeti E = I/d² ile bulunur; uzaklığın karesiyle ters orantılıdır. Uzaklık iki katına çıkınca E, 2²=4 kat azalır ve E/4 olur. (Paralel ışınlarda ise uzaklık aydınlanmayı etkilemez.)"
+  },
+  {
+    "id": "tyt-fizik-44-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Işığın Yansıması ve Düzlem Aynalar",
+    "type": "cloze",
+    "text": "Yansıma kanununa göre gelen ışının yüzey normaliyle yaptığı gelme açısı, yansıyan ışının normalle yaptığı ___ açısına eşittir.",
+    "answer": "yansıma",
+    "explanation": "Yansıma kanununa göre gelme açısı yansıma açısına eşittir (i = r). Ayrıca yansıma olayında ışığın hızı, frekansı ve rengi değişmez."
+  },
+  {
+    "id": "tyt-fizik-44-002",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Işığın Yansıması ve Düzlem Aynalar",
+    "type": "flashcard",
+    "front": "Düzlem aynada bir cismin görüntüsünün özellikleri nelerdir?",
+    "back": "Görüntü simetrik ve sanaldır (zahiridir). Görüntünün boyu cismin boyuna eşittir. Cismin aynaya uzaklığı ile görüntünün aynaya uzaklığı eşittir."
+  },
+  {
+    "id": "tyt-fizik-45-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Küresel Aynaların Özellikleri ve Küresel Aynalarda Özel Işınlar",
+    "type": "cloze",
+    "text": "Küresel bir aynanın odak uzaklığı, eğrilik yarıçapının ___ kadardır (f = r/2).",
+    "answer": "yarısı",
+    "explanation": "Küresel aynalarda odak uzaklığı yalnızca eğrilik yarıçapına bağlıdır ve f = r/2'dir. Odak uzaklığı; ortamın cinsine ya da ışığın rengine bağlı değildir. Merkezin aynaya uzaklığı ise 2f olur."
+  },
+  {
+    "id": "tyt-fizik-47-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Işığın Kırılması",
+    "type": "quiz",
+    "question": "Işık az yoğun ortamdan çok yoğun ortama (n1 < n2) geçtiğinde ışının doğrultusu ve hızı nasıl değişir?",
+    "options": [
+      "Normale yaklaşarak kırılır, ortalama hızı azalır",
+      "Normalden uzaklaşarak kırılır, hızı artar",
+      "Kırılmadan doğru ilerler, hızı değişmez",
+      "Normale yaklaşır, hızı artar",
+      "Geri yansır, hiç kırılmaz"
+    ],
+    "answerIndex": 0,
+    "explanation": "n = c/v olduğundan çok yoğun ortamda (büyük n) ışığın hızı küçüktür. Az yoğundan çok yoğun ortama geçen ışık normale yaklaşarak kırılır ve ortalama hızı azalır. Bu ışın daima karşı ortama geçer. Frekans yalnızca kaynağa bağlı olduğundan değişmez."
+  },
+  {
+    "id": "tyt-fizik-52-001",
+    "exam": "tyt",
+    "subject": "fizik",
+    "topic": "Renk",
+    "type": "quiz",
+    "question": "Beyaz ışıkta kırmızı görünen mat (saydam olmayan) bir cismin üzerine yalnızca yeşil ışık düşürülürse cisim hangi renkte görünür?",
+    "options": [
+      "Siyah",
+      "Yeşil",
+      "Kırmızı",
+      "Sarı",
+      "Beyaz"
+    ],
+    "answerIndex": 0,
+    "explanation": "Kırmızı görünen cisim yalnızca kırmızı ve ona yakın tonları yansıtır, diğer renkleri soğurur. Üzerine yeşil ışık düştüğünde bu ışık cisim tarafından soğurulur, yansıyan ışık olmaz ve cisim siyah görünür."
+  },
+  {
     "id": "tyt-kimya-01-001",
     "exam": "tyt",
     "subject": "kimya",
@@ -4023,7 +6635,7 @@
     "id": "tyt-turkce-01-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 1",
+    "topic": "Sözcükte Anlam",
     "type": "quiz",
     "question": "\"Kır\" sözcüğü aşağıdaki cümlelerin hangisinde mecaz anlamıyla kullanılmıştır?",
     "options": [
@@ -4039,7 +6651,7 @@
     "id": "tyt-turkce-01-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 1",
+    "topic": "Sözcükte Anlam",
     "type": "info",
     "title": "Terim Anlam",
     "body": "Terim anlam; bir bilim, sanat ya da meslek dalına veya belirli bir konuya ait özel bir kavramı karşılayan anlamdır. \"Şampiyonu penaltı atışları belirleyecek.\" cümlesindeki \"penaltı\" futbol (spor) alanına özgüdür; \"Sol anahtarı müzikte kullanılan anahtarlardan biridir.\" cümlesindeki \"anahtar\" da müzik terimidir.",
@@ -4049,7 +6661,7 @@
     "id": "tyt-turkce-01-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 1",
+    "topic": "Sözcükte Anlam",
     "type": "truefalse",
     "statement": "\"Sandalyenin ayağı kırılmış.\" cümlesindeki \"ayak\" sözcüğü, temel anlamla bağlantısı bulunduğu için yan anlamıyla kullanılmıştır.",
     "answer": true,
@@ -4059,7 +6671,7 @@
     "id": "tyt-turkce-01-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 1",
+    "topic": "Sözcükte Anlam",
     "type": "flashcard",
     "front": "Gerçek (temel) anlam nedir?",
     "back": "Bir sözcüğün akla gelen ilk anlamıdır; temel anlam olarak da adlandırılır. Örneğin \"Merdivenlerden inerken ayağını burkmuş.\" cümlesinde \"ayak\" gerçek anlamdadır."
@@ -4068,7 +6680,7 @@
     "id": "tyt-turkce-02-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 2",
+    "topic": "Sözcükte Anlam",
     "type": "quiz",
     "question": "Aşağıdaki sözcüklerden hangisi soyut anlamlıdır?",
     "options": [
@@ -4084,7 +6696,7 @@
     "id": "tyt-turkce-02-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 2",
+    "topic": "Sözcükte Anlam",
     "type": "quiz",
     "question": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük nicel anlamlıdır?",
     "options": [
@@ -4100,7 +6712,7 @@
     "id": "tyt-turkce-02-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 2",
+    "topic": "Sözcükte Anlam",
     "type": "truefalse",
     "statement": "Eş anlamlı (anlamdaş) sözcükler, yazılışları aynı fakat anlamları farklı olan sözcüklerdir.",
     "answer": false,
@@ -4110,7 +6722,7 @@
     "id": "tyt-turkce-03-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 3",
+    "topic": "Sözcükte Anlam",
     "type": "quiz",
     "question": "\"Haberi duyunca tüm kasaba üzüldü.\" cümlesinde görülen mecazımürsel (ad aktarması) ilişkisi aşağıdakilerden hangisidir?",
     "options": [
@@ -4126,7 +6738,7 @@
     "id": "tyt-turkce-03-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 3",
+    "topic": "Sözcükte Anlam",
     "type": "quiz",
     "question": "Aşağıdakilerden hangisi güzel adlandırmaya örnektir?",
     "options": [
@@ -4142,7 +6754,7 @@
     "id": "tyt-turkce-03-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 3",
+    "topic": "Sözcükte Anlam",
     "type": "cloze",
     "text": "Bir sözcükle anlatılabilecek bir kavramın birden çok sözcükle anlatılmasına ___ denir; \"kaleci\" yerine \"file bekçisi\" demek buna örnektir.",
     "answer": "dolaylama",
@@ -4158,7 +6770,7 @@
     "id": "tyt-turkce-03-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 3",
+    "topic": "Sözcükte Anlam",
     "type": "info",
     "title": "Deyim Aktarmasının Türleri",
     "body": "Deyim aktarması dört yönde olabilir: insandan doğaya (\"Kaptan tayfalara esip gürledi.\"), doğadan insana (\"Yumuşak sesiyle herkesi etkiledi.\"), duyular arası ve doğadan doğaya (\"Yıllar durmadan akıyor.\"). Bir varlığın özelliği başka bir varlığa aktarılır.",
@@ -4168,7 +6780,7 @@
     "id": "tyt-turkce-04-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 4",
+    "topic": "Sözcükte Anlam",
     "type": "quiz",
     "question": "\"Aferin, sınava çok çalıştığınız notlarınızdan belli.\" cümlesinde, düşük notlar bağlamında hangi söz sanatı vardır?",
     "options": [
@@ -4184,7 +6796,7 @@
     "id": "tyt-turkce-04-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 4",
+    "topic": "Sözcükte Anlam",
     "type": "cloze",
     "text": "\"Umut yediğim ekmek, içtiğim sudur.\" cümlesinde soyut bir kavram somut sözcüklerle anlatıldığı için ___ söz konusudur.",
     "answer": "somutlama",
@@ -4200,7 +6812,7 @@
     "id": "tyt-turkce-04-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Sözcükte Anlam 4",
+    "topic": "Sözcükte Anlam",
     "type": "info",
     "title": "Anlam Genişlemesi ve Anlam Daralması",
     "body": "Anlam genişlemesinde sözcük ilk anlamından daha geniş bir alanı kapsar hâle gelir: \"ödül\" eskiden yalnızca güreş sonrası verilen mükâfat iken bugün her türlü başarının karşılığıdır. Anlam daralmasında ise tersine, sözcük ilk anlamından daha dar bir alanı karşılar: \"erik\" eskiden çekirdekli küçük meyvelerin ortak adıyken bugün sadece tek bir meyvenin adıdır.",
@@ -4210,7 +6822,7 @@
     "id": "tyt-turkce-05-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 1",
+    "topic": "Cümlede Anlam",
     "type": "quiz",
     "question": "\"Seni göreyim diye buralara kadar geldim.\" cümlesi için aşağıdakilerden hangisi doğrudur?",
     "options": [
@@ -4226,7 +6838,7 @@
     "id": "tyt-turkce-05-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 1",
+    "topic": "Cümlede Anlam",
     "type": "cloze",
     "text": "\"Gençliğinde çalışırsan sonra rahat edersin.\" cümlesinde yargının gerçekleşmesi bir duruma bağlandığı için bu bir ___ cümlesidir.",
     "answer": "koşul",
@@ -4242,7 +6854,7 @@
     "id": "tyt-turkce-05-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 1",
+    "topic": "Cümlede Anlam",
     "type": "truefalse",
     "statement": "\"Geç kaldığı için sınavını bitiremedi.\" cümlesi neden-sonuç ilişkisi taşır.",
     "answer": true,
@@ -4252,7 +6864,7 @@
     "id": "tyt-turkce-05-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 1",
+    "topic": "Cümlede Anlam",
     "type": "quiz",
     "question": "\"Beni dinlemiyorlar demek ki ben onlar için önemli değilim.\" cümlesi anlam ilişkisi bakımından aşağıdakilerden hangisine örnektir?",
     "options": [
@@ -4268,7 +6880,7 @@
     "id": "tyt-turkce-06-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 2",
+    "topic": "Cümlede Anlam",
     "type": "cloze",
     "text": "\"Umut, insanı diri tutan en önemli güçtür.\" cümlesi kişisel bir değerlendirme içerdiği için ___ bir anlatıma sahiptir.",
     "answer": "öznel",
@@ -4282,7 +6894,7 @@
     "id": "tyt-turkce-06-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 2",
+    "topic": "Cümlede Anlam",
     "type": "quiz",
     "question": "\"Polis, suçluların en kısa sürede yakalanacağını söyledi.\" cümlesi anlatım türü bakımından aşağıdakilerden hangisidir?",
     "options": [
@@ -4298,7 +6910,7 @@
     "id": "tyt-turkce-06-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 2",
+    "topic": "Cümlede Anlam",
     "type": "quiz",
     "question": "\"Eserlerinde kullandığı devrik cümlelerle anlatımı sıkıcılıktan kurtarmış.\" cümlesi aşağıdakilerden hangisine örnektir?",
     "options": [
@@ -4314,7 +6926,7 @@
     "id": "tyt-turkce-06-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 2",
+    "topic": "Cümlede Anlam",
     "type": "flashcard",
     "front": "Tanım cümlesi nedir ve hangi sorulara yanıt verir?",
     "back": "Bir kavramın ya da varlığın niteliklerini belirten, açıklayan cümledir; \"Bu nedir?\", \"Bu kimdir?\" sorularına yanıt verir. Örnek: \"Nomofobi, cep telefonundan mahrum kalma korkusudur.\""
@@ -4323,7 +6935,7 @@
     "id": "tyt-turkce-07-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 3",
+    "topic": "Cümlede Anlam",
     "type": "quiz",
     "question": "\"Keşke öğretmenimi dinleyip derslerime düzenli çalışsaydım.\" cümlesinde aşağıdaki duygulardan hangisi vardır?",
     "options": [
@@ -4339,7 +6951,7 @@
     "id": "tyt-turkce-07-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 3",
+    "topic": "Cümlede Anlam",
     "type": "truefalse",
     "statement": "\"Sınavda bu konudan daha fazla soru gelebilir.\" cümlesi bir olasılık cümlesidir.",
     "answer": true,
@@ -4349,7 +6961,7 @@
     "id": "tyt-turkce-07-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Cümlede Anlam 3",
+    "topic": "Cümlede Anlam",
     "type": "info",
     "title": "Öz Eleştiri ile Küçümseme Farkı",
     "body": "Öz eleştiri cümlelerinde kişi kendisini eleştirir: \"Gençlik yıllarımda verdiğim tepkilerin aşırı olduğunu görüyorum.\" Küçümseme cümlelerinde ise başka bir kişi, durum veya eser hor/küçük görülür: \"Bu öyküyü ilkokul öğrencisi bile yazar.\" Eleştirinin yönü öz eleştiride kendine, küçümsemede karşıdakinedir.",
@@ -4359,7 +6971,7 @@
     "id": "tyt-turkce-08-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 1",
+    "topic": "Paragrafta Anlam",
     "type": "quiz",
     "question": "\"Şiir üzerine ne zaman konuşacak olsam Melih Cevdet'in 'Şiir, üzerinde çok fazla konuşmayı kaldırmayan bir sanat dalıdır.' sözü kulağımda çınlar.\" Bu parçada savunulan görüşü inandırıcı kılmak için hangi düşünceyi geliştirme yoluna başvurulmuştur?",
     "options": [
@@ -4375,7 +6987,7 @@
     "id": "tyt-turkce-08-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 1",
+    "topic": "Paragrafta Anlam",
     "type": "truefalse",
     "statement": "\"Yetişkinler dakikada ortalama 10-15 kez göz kırpar, bebekler ise ikiden az.\" cümlesinde sayısal verilerden yararlanma yoluyla düşünce inandırıcı kılınmıştır.",
     "answer": true,
@@ -4385,7 +6997,7 @@
     "id": "tyt-turkce-08-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 1",
+    "topic": "Paragrafta Anlam",
     "type": "cloze",
     "text": "Anlatımı güçlendirmek amacıyla iki varlıktan zayıf olanın güçlü olana benzetildiği düşünceyi geliştirme yoluna ___ denir.",
     "answer": "benzetme",
@@ -4400,7 +7012,7 @@
     "id": "tyt-turkce-08-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 1",
+    "topic": "Paragrafta Anlam",
     "type": "flashcard",
     "front": "Karşılaştırma ile örneklendirme arasındaki temel fark nedir?",
     "back": "Karşılaştırmada iki ya da daha fazla unsurun benzer ve farklı yönleri ortaya konur; örneklendirmede ise savunulan düşünceyi pekiştirmek veya inandırıcı kılmak için somut örnekler verilir."
@@ -4409,7 +7021,7 @@
     "id": "tyt-turkce-09-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 2",
+    "topic": "Paragrafta Anlam",
     "type": "quiz",
     "question": "\"Kitap okumayı arkadaşından çok seviyordu.\" cümlesi hangi anlatım özelliğine aykırıdır?",
     "options": [
@@ -4425,7 +7037,7 @@
     "id": "tyt-turkce-09-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 2",
+    "topic": "Paragrafta Anlam",
     "type": "quiz",
     "question": "Bir metinde \"ıskartaya çıkardığımız\" ve \"değersiz bulduğumuz\" ifadelerinin birlikte kullanılması hangi anlatım özelliğini zedeler?",
     "options": [
@@ -4441,7 +7053,7 @@
     "id": "tyt-turkce-09-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 2",
+    "topic": "Paragrafta Anlam",
     "type": "truefalse",
     "statement": "Anlatımın dil bilgisi kurallarına uygun olması sağlamlık özelliğidir; nesne ya da özne eksikliği gibi anlatım bozuklukları sağlamlığa aykırıdır.",
     "answer": true,
@@ -4451,7 +7063,7 @@
     "id": "tyt-turkce-09-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 2",
+    "topic": "Paragrafta Anlam",
     "type": "quiz",
     "question": "Paragrafın konusu ile ana düşüncesi arasındaki fark aşağıdakilerin hangisinde doğru verilmiştir?",
     "options": [
@@ -4467,7 +7079,7 @@
     "id": "tyt-turkce-09-005",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 2",
+    "topic": "Paragrafta Anlam",
     "type": "cloze",
     "text": "Bir yazının bölümlerinin başına konulan, konuyu kısaca tanıtan ve konunun özeti niteliğindeki ibareye ___ denir.",
     "answer": "başlık",
@@ -4477,7 +7089,7 @@
     "id": "tyt-turkce-09-006",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 2",
+    "topic": "Paragrafta Anlam",
     "type": "quiz",
     "question": "\"Bu parçada aşağıdakilerin hangisine değinilmemiştir?\" sorusu paragrafın hangi ögesiyle ilgilidir?",
     "options": [
@@ -4493,7 +7105,7 @@
     "id": "tyt-turkce-10-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 3",
+    "topic": "Paragrafta Anlam",
     "type": "quiz",
     "question": "Bir paragrafın giriş cümlesinin taşımaması gereken özellik aşağıdakilerden hangisidir?",
     "options": [
@@ -4509,7 +7121,7 @@
     "id": "tyt-turkce-10-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 3",
+    "topic": "Paragrafta Anlam",
     "type": "cloze",
     "text": "Paragrafın bitiş bölümü olan sonuç bölümünde \"sonuç olarak, kısacası, demek ki\" gibi ifadeler bulunabilir; bu bölüm kendisinden ___ başka yargıların varlığını çağrıştıran ifadeler içermez.",
     "answer": "sonra",
@@ -4519,7 +7131,7 @@
     "id": "tyt-turkce-10-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Paragrafta Anlam 3",
+    "topic": "Paragrafta Anlam",
     "type": "info",
     "title": "Olaya dayalı paragrafları sıralamanın anahtarı",
     "body": "Dağınık cümlelerden anlamlı bir paragraf oluştururken her cümlenin ortaya koyduğu düşünce, olay ya da durum belirlenir. Bilgi aktaran paragraflarda giriş cümlesi ve cümleler arasındaki bağlayıcı ifadeler tespit edilir; olaya dayalı paragraflarda ise olayların kronolojik (zaman) sırası göz önünde tutulur.",
@@ -4574,7 +7186,7 @@
     "id": "tyt-turkce-12-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "Aşağıdaki cümlelerin hangisinde büyük harfin kullanımıyla ilgili bir yazım yanlışı vardır?",
     "options": [
@@ -4590,7 +7202,7 @@
     "id": "tyt-turkce-12-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "\"Doğu\" ve \"Batı\" sözcüklerinin büyük harfle yazılması hangi durumda doğrudur?",
     "options": [
@@ -4606,7 +7218,7 @@
     "id": "tyt-turkce-12-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "Aşağıdaki cümlelerin hangisinde \"dünya\" sözcüğü yazım kuralına uygun yazılmıştır?",
     "options": [
@@ -4622,7 +7234,7 @@
     "id": "tyt-turkce-12-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "truefalse",
     "statement": "Özel adların ilk harfleri büyük yazılan kitap, makale, kurum adlarında yer alan \"ve, ile, ya, veya, ki, da, de\" sözleri ile \"mı, mi\" soru eki küçük yazılır.",
     "answer": true,
@@ -4632,7 +7244,7 @@
     "id": "tyt-turkce-13-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 2",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "Aşağıdakilerin hangisinde sayının rakamla yazılması gerekir?",
     "options": [
@@ -4648,7 +7260,7 @@
     "id": "tyt-turkce-13-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 2",
+    "topic": "Yazım Kuralları",
     "type": "info",
     "title": "Sıra sayılarında nokta mı kesme işareti mi?",
     "body": "Sıra sayıları yazıyla (on beşinci) ya da rakamla gösterilebilir. Rakamla gösterildiğinde ya rakamdan sonra nokta konur (15.) ya da kesme işaretiyle derece eki yazılır (15'inci). Ek kullanıldığında ayrıca nokta konmaz: \"8.'inci\" değil \"8'inci\", \"2.'nci\" değil \"2'nci\".",
@@ -4658,7 +7270,7 @@
     "id": "tyt-turkce-13-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 2",
+    "topic": "Yazım Kuralları",
     "type": "cloze",
     "text": "Üleştirme sayıları rakamla değil ___ belirtilir; örneğin \"2'şer\" değil \"ikişer\" yazılır.",
     "answer": "yazıyla",
@@ -4672,7 +7284,7 @@
     "id": "tyt-turkce-13-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 2",
+    "topic": "Yazım Kuralları",
     "type": "info",
     "title": "Büyük sayıları üçerli gruplara ayırma",
     "body": "Dört veya daha çok basamaklı sayılar, sondan sayılmak üzere üçlü gruplara ayrılarak yazılır ve gruplar arasına nokta konur: 4.567, 326.197, 49.750.812 gibi. Sayılarda kesirler ise virgülle ayrılır: 15,2 (15 tam, onda 2).",
@@ -4682,7 +7294,7 @@
     "id": "tyt-turkce-14-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "Aşağıdaki cümlelerin hangisinde bağlaç olan \"da/de\"nin yazımıyla ilgili bir yanlışlık vardır?",
     "options": [
@@ -4698,7 +7310,7 @@
     "id": "tyt-turkce-14-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "truefalse",
     "statement": "Bağlaç olan \"da/de\", kendisinden önceki kelime sert ünsüzle bitse bile \"ta/te\" biçiminde yazılamaz.",
     "answer": true,
@@ -4708,7 +7320,7 @@
     "id": "tyt-turkce-14-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "cloze",
     "text": "Soru eki \"mı/mi/mu/mü\" gelenekleşmiş olarak ___ yazılır ve kendisinden sonra gelen ekler bu eke bitişik yazılır.",
     "answer": "ayrı",
@@ -4722,7 +7334,7 @@
     "id": "tyt-turkce-14-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "\"Ki\"nin yazımıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
     "options": [
@@ -4738,7 +7350,7 @@
     "id": "tyt-turkce-14-005",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 1",
+    "topic": "Yazım Kuralları",
     "type": "flashcard",
     "front": "İkilemeler ile sıfat/zarf görevindeki pekiştirmeli sözler nasıl yazılır?",
     "back": "İkilemeler ayrı yazılır (adım adım, eski püskü, at mat); pekiştirmeli sözler ise bitişik yazılır (apaçık, dümdüz, sapasağlam)."
@@ -4747,7 +7359,7 @@
     "id": "tyt-turkce-15-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 2",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "Aşağıdaki birleşik fiillerden hangisi ayrı yazılmalıdır?",
     "options": [
@@ -4763,7 +7375,7 @@
     "id": "tyt-turkce-15-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 2",
+    "topic": "Yazım Kuralları",
     "type": "cloze",
     "text": "İkinci kelimesi anlam değişikliğine uğrayan \"aslanağzı, kuşburnu, kadınbudu\" gibi birleşik kelimeler ___ yazılır.",
     "answer": "bitişik",
@@ -4777,7 +7389,7 @@
     "id": "tyt-turkce-15-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 2",
+    "topic": "Yazım Kuralları",
     "type": "truefalse",
     "statement": "\"Uyuyakalmak, gülüvermek, düşeyazmak\" gibi tasvirî (kurallı birleşik) fiiller bitişik yazılır.",
     "answer": true,
@@ -4787,7 +7399,7 @@
     "id": "tyt-turkce-16-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 3",
+    "topic": "Yazım Kuralları",
     "type": "info",
     "title": "Büyük harfli kısaltmalarda nokta",
     "body": "Büyük harflerle yapılan kısaltmalarda kural olarak nokta kullanılmaz: TBMM, TDK, ABD. Gelenekleşmiş olan T.C. (Türkiye Cumhuriyeti) ve T. (Türkçe) ile ölçü birimi kısaltmaları (m, cm, kg) bu kuralın dışındadır; ölçü birimlerinde de nokta konmaz.",
@@ -4797,7 +7409,7 @@
     "id": "tyt-turkce-16-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 3",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "Aşağıdaki cümlelerin hangisinde nokta (.) işaretinin kullanımı yanlıştır?",
     "options": [
@@ -4813,7 +7425,7 @@
     "id": "tyt-turkce-16-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Yazım Kuralları 3",
+    "topic": "Yazım Kuralları",
     "type": "quiz",
     "question": "\"İzlediğim filmler, tiyatrolar, gösteriler( ) okuduğum romanlar, hikâyeler, denemeler derin izler bıraktı.\" cümlesinde ayraçla gösterilen yere hangi işaret gelmelidir?",
     "options": [
@@ -4829,7 +7441,7 @@
     "id": "tyt-turkce-17-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 1",
+    "topic": "Noktalama İşaretleri",
     "type": "quiz",
     "question": "\"Annemi elleri öpülesi mübarek kadını bu güzel köye ebe olarak göndermiş.\" cümlesinde \"elleri öpülesi mübarek kadını\" sözünün başına ve sonuna hangi işaret konmalıdır?",
     "options": [
@@ -4845,7 +7457,7 @@
     "id": "tyt-turkce-17-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 1",
+    "topic": "Noktalama İşaretleri",
     "type": "truefalse",
     "statement": "\"Hem ağlar hem giderim.\" cümlesinde \"hem\" tekrarlı bağlaç olduğu için arasına ve öncesine virgül konmaz.",
     "answer": true,
@@ -4855,7 +7467,7 @@
     "id": "tyt-turkce-17-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 1",
+    "topic": "Noktalama İşaretleri",
     "type": "cloze",
     "text": "Kendisiyle ilgili örnek verilecek ya da açıklama yapılacak cümlenin sonuna ___ konur.",
     "answer": "iki nokta",
@@ -4870,7 +7482,7 @@
     "id": "tyt-turkce-17-004",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 1",
+    "topic": "Noktalama İşaretleri",
     "type": "info",
     "title": "İki noktadan sonra büyük mü küçük mü?",
     "body": "İki noktadan sonra gelen ifade cümle niteliğindeyse büyük harfle, cümle değilse küçük harfle başlar. \"Şunu öğrendim: Hiçbir öğrenci başarısız olmaktan mutlu değildir.\" (cümle, büyük). \"Aklın üç düşmanı vardır: cahillik, tembellik, kibir.\" (sıralama, küçük).",
@@ -4880,7 +7492,7 @@
     "id": "tyt-turkce-18-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 2",
+    "topic": "Noktalama İşaretleri",
     "type": "quiz",
     "question": "\"Odanın kapısından dışarı taşan sesler, haykırmalar, homurdanmalar( )\" cümlesinin sonuna anlatımın yarıda bırakıldığını göstermek için hangi işaret konur?",
     "options": [
@@ -4896,7 +7508,7 @@
     "id": "tyt-turkce-18-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 2",
+    "topic": "Noktalama İşaretleri",
     "type": "truefalse",
     "statement": "\"Bahar geldi mi Büyük Göl'ün etrafı sürülerle dolar.\" cümlesinin sonuna soru işareti konmalıdır.",
     "answer": false,
@@ -4906,7 +7518,7 @@
     "id": "tyt-turkce-19-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 3",
+    "topic": "Noktalama İşaretleri",
     "type": "quiz",
     "question": "Aşağıdakilerin hangisinde kesme işaretinin kullanımı doğrudur?",
     "options": [
@@ -4922,7 +7534,7 @@
     "id": "tyt-turkce-19-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Noktalama İşaretleri 3",
+    "topic": "Noktalama İşaretleri",
     "type": "flashcard",
     "front": "Kurum, kuruluş ve kurul adlarına gelen ekler kesme işaretiyle ayrılır mı?",
     "back": "Hayır. \"Türkiye Büyük Millet Meclisine\", \"Bakanlar Kurulunun\" örneklerinde olduğu gibi kurum/kuruluş/kurul adlarına gelen ekler kesme işaretiyle ayrılmaz."
@@ -4931,7 +7543,7 @@
     "id": "tyt-turkce-20-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Biçim Bilgisi 1",
+    "topic": "Biçim Bilgisi",
     "type": "quiz",
     "question": "\"yaz / yaz-\" ve \"gül / gül-\" sözcük çiftleri için aşağıdakilerden hangisi söylenebilir?",
     "options": [
@@ -4947,7 +7559,7 @@
     "id": "tyt-turkce-20-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Biçim Bilgisi 1",
+    "topic": "Biçim Bilgisi",
     "type": "cloze",
     "text": "\"-ı, -i, -u, -ü\" ekini almış ismin başına \"onun\" sözcüğünü getirebiliyorsak bu ek ___ ekidir.",
     "answer": "iyelik",
@@ -4961,7 +7573,7 @@
     "id": "tyt-turkce-20-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Biçim Bilgisi 1",
+    "topic": "Biçim Bilgisi",
     "type": "quiz",
     "question": "\"Sınıfın gözde öğrencisi bugün derste yoktu.\" cümlesindeki \"gözde\" sözcüğüyle ilgili olarak hangisi doğrudur?",
     "options": [
@@ -4977,7 +7589,7 @@
     "id": "tyt-turkce-21-001",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Biçim Bilgisi 2",
+    "topic": "Biçim Bilgisi",
     "type": "quiz",
     "question": "\"Gençlere her zaman destek olmalıyız.\" cümlesindeki \"gençlere\" sözcüğüyle ilgili olarak hangisi doğrudur?",
     "options": [
@@ -4993,7 +7605,7 @@
     "id": "tyt-turkce-21-002",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Biçim Bilgisi 2",
+    "topic": "Biçim Bilgisi",
     "type": "flashcard",
     "front": "Bir sözcüğün sıfat olabilmesinin temel koşulu nedir ve bu kullanım ne oluşturur?",
     "back": "Sözcüğün mutlaka bir isimle birlikte kullanılması gerekir (sıfat + isim). Sıfatın olduğu her yerde bir sıfat tamlaması vardır; örneğin \"bazı insanlar\"."
@@ -5002,7 +7614,7 @@
     "id": "tyt-turkce-21-003",
     "exam": "tyt",
     "subject": "turkce",
-    "topic": "Biçim Bilgisi 2",
+    "topic": "Biçim Bilgisi",
     "type": "info",
     "title": "Pekiştirilmiş söz ne olur?",
     "body": "\"Yapayalnız, simsiyah\" gibi pekiştirilmiş bir söz, cümledeki göreviyle tür değiştirir: bir ismi nitelerse sıfat (Yapayalnız bir insandı), bir fiili nitelerse zarf (Yapayalnız kalmıştı), çekim eki alırsa isim olur (Gittiği yerde hep yapayalnızdı).",
