@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 16,
-  "file": "generated.7c4c3c1d07ea.json",
-  "sha256": "7c4c3c1d07ea2f771336894a7073b80b5e886f749004efeb5e1fb3fedec62642",
-  "bytes": 1009171,
+  "contentVersion": 17,
+  "file": "generated.921337862b6f.json",
+  "sha256": "921337862b6f0b980bbbc5c74eb28e8a183cfc37fc609cbf7de047b9fa9420dc",
+  "bytes": 1005735,
   "cardCount": 1500,
-  "generatedAt": "2026-06-28T14:37:53.976Z",
+  "generatedAt": "2026-06-28T15:06:16.468Z",
   "minAppVersion": "1.0.0"
 }
